@@ -1,0 +1,14 @@
+<div class="card-summary">
+  {{ if (not .Truncated) | and (not (.Scratch.Get "hasImage")) -}}
+    {{ .Content }}
+  {{ else -}}
+    {{ .Summary }}
+  {{ end }}
+</div>
+<div class="card-more">
+  {{ if .Truncated | or (.Scratch.Get "hasImage") }}
+      <a class="card-more-link" href="{{ .Permalink }}">Lire la suite...</a>
+  {{ end }}
+	{{ .Scratch.Set "about_display" "short" }}
+  {{ partial "about.html" . }}
+</div>

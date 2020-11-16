@@ -1,0 +1,35 @@
+<div class="trombi">
+{{ if eq .Params.trombi "portraits" }}
+  {{ $portraits := .Resources.ByType "image" }}
+  {{ range .Params.membres }}
+  <div class="portrait">
+    {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "%s.*") }}
+    {{- with $portrait }}
+      {{/* - $src := ($portrait.Fill "240x320").Permalink */}}
+      {{- $src := ($portrait.Resize "480x").Permalink }}      
+      <img src="{{ $src }}" />
+    {{- end }}
+    <h3>{{ .nom }}</h3>
+    {{ with .role }}
+      <span class="role">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{end}}
+{{ else }}
+  {{if (eq .Params.trombi "liste")}}
+    <ul class="membres">
+    {{ range .Params.membres }}
+      <li>
+        <span class="nom">{{ .nom }} <span class="role">({{ .role }})</span>
+      </li>
+    {{ end }}
+    </ul>
+  {{ else }}
+    {{ with .Resources.GetMatch (printf "%s" .Params.trombi)}}
+    <img src="{{ .RelPermalink }}" />
+    {{ else }}
+      Pas de trombi disponible pour ce CA
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>

@@ -1,0 +1,16 @@
+{{ if .page.Params.header }}
+  {{ .page.Scratch.Set "image" ((.page.Site.GetPage "media").Resources.GetMatch .page.Params.header) -}}
+{{ else if .page.Resources }}
+  {{ .page.Scratch.Set "image" ((.page.Resources.ByType "image").GetMatch "header.*") -}}
+{{ end}}
+{{ .page.Scratch.Set "hasImage" (cond (not (.page.Scratch.Get "image")) false true) -}}
+<div class="card {{ cond (.page.Scratch.Get "hasImage") " with-image" "" }}">
+	{{ partialCached "cards/image.html" .page .page.Permalink }}
+	<div class="card-text">
+		{{ partialCached "cards/title.html" .page .page.Permalink }}
+		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
+		{{ if .display_summary }}
+			{{ partialCached "cards/summary.html" .page .page.Permalink }}
+		{{ end }}
+	</div>
+</div>

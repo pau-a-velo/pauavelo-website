@@ -1,0 +1,45 @@
+---
+# mettre la date de nomination du CA (l'ag)
+date: 2017-12-18
+
+# mettre l'année du CA (ex: "2018")
+title: "2018"
+# trombi:
+# - "portraits": fabrique le trombi à partir des photos des membres listés.
+#   Chaque photo doit avoir comme nom de fichier le nom du membre,
+#   tout en minuscule sans accent, les espaces sont remplacés par
+#   des tirets. ex: Jean Dùpont aura la photo jean-dupont.jpg ou jean-dupont.png
+# - "trombi.jpg": le trombi est déjà mis en page dans une image nommée "trombi.jpg"
+#   vous pouvez préciser un autre nom de fichier
+# - "liste": il n'y aura pas de photos, la listes des membres et de leur fonction
+#   sera affichée.
+# Dans tous les cas l'image du trombi ou les photos des membres doivent
+# se trouver à la racine du répertoire qui contient ce "_index.md"
+trombi: "portraits"
+
+# membres: décommenter pour saisir la liste des noms et fonctions des membres
+# du CA. Ces noms seront utilisés pour construire un trombi automatiquement
+# avec les photo si "autotrombi" vaut "true"
+# membres :
+#   - nom: "Jean Dupont" # si autotrombi, la photo devra se nommer jean-dupont.jpg ou jean-dupont.png
+#     role: "président"
+#   - nom: "Marcel Durand"
+#     role: "secrétaire"
+membres:
+  - nom: "Christophe Nussbaumer"
+    role: référent adhérents
+  - nom: "Hervé Laurent"
+    role: secrétaire adjoint, trésorier adjoint
+  - nom: Julie Champagne
+    role: trésorière
+  - nom: "Maïa Ricadat"
+    role: administratrice
+  - nom: Michel Barrère
+    role: secrétaire porte-parole adjoint
+  - nom: "Roland Harper"
+    role: administrateur
+  - nom: Sébastien Lamy
+    role: secrétaire porte-parole
+  - nom: "Sylvain Thibeau"
+    role: administrateur
+---

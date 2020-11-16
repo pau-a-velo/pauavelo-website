@@ -1,0 +1,50 @@
+{{ define "main" }}
+  {{ partial "nav.html" . }}
+    <main class="ca">
+      <div class="list-head">
+        <h1>Conseil d'administration {{ .Name }}</h1>
+        <p>Nommé le
+          {{ .Date.Day }}
+          {{ index .Site.Data.mois.long (printf "%d" .Date.Month) }}
+          {{ .Date.Year }}</p>
+      </div>
+        <div class="ca-wrapper">
+          <div class="ca">
+            {{ partialCached "trombi.html" . .Title }}
+          </div>
+        </div>
+
+      <div class="list-head">
+          <h2 id="reunions">Liste des réunions</h2>
+      </div>
+      {{ partial "ca/navigation.html" . }}
+      <article>
+      <div class="content">
+        {{ .Content }}
+          {{ range .Pages }}
+              <div class="pure-g">
+                <div class="pure-u">
+                  {{ partial "event_date.html" .}}
+                </div>
+                <div class="pure-u-1 pure-u-sm-19-24">
+                  <h2 id="{{ .File.BaseFileName | anchorize }}">{{ .Title }}&nbsp;<a href="#{{ .File.BaseFileName | anchorize }}" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a></h2>
+                  <div>
+                    {{ .Content }}
+                  </div>
+                </div>
+              </div>
+          {{ end }}
+          {{ if not .Pages }}
+            <div class="empty-label">
+              Nous ne disposons pas de compte-rendu de réunion pour ce conseil d'administration.
+            </div>
+          {{ end }}
+      </div>
+      </article>
+      {{ partial "ca/navigation.html" . }}
+    </main>
+
+
+
+  {{ partialCached "footer.html" . }}
+{{ end }}

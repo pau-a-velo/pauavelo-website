@@ -1,0 +1,729 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <meta name=description content="Legend of the CyclOSM map style, a beautiful open cycle map built on top of OpenStreetMap data. It provides a useful map for each and every cyclist, no matter the practice (commuting, touring, …). CyclOSM is a free and open-source software.">
+        <meta name="twitter:image:src" content="https://www.cyclosm.org/images/social_media.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="CyclOSM">
+        <meta name="twitter:description" content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+
+        <meta property="og:site_name" content="CyclOSM" />
+        <meta property=og:image content="https://www.cyclosm.org/images/social_media.png">
+        <meta property=og:type content="website">
+        <meta property=og:title content="CyclOSM">
+        <meta property=og:url content="https://cyclosm.org/">
+        <meta property=og:description content="Legend of CyclOSM, a bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.cyclosm.org/images/favicon-16.png">
+        <link rel="icon" type="image/png" sizes="228x228" href="https://www.cyclosm.org/images/favicon-228.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.cyclosm.org/images/favicon-32.png">
+        <link rel="shortcut icon" href="https://www.cyclosm.org/images/favicon.ico">
+
+        <title>CyclOSM - Legende</title>
+
+        <style type="text/css">
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                src: url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.eot'); /* IE9 Compat Modes */
+                src: local('Roboto'), local('Roboto-Regular'),
+                url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+                url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+                url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+                url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+                url('https://www.cyclosm.org/webfonts/roboto-v20-latin-regular.svg#Roboto') format('svg'); /* Legacy iOS */
+            }
+
+            body {
+                font-family: Roboto, sans-serif;
+                font-size: 14px;
+            }
+
+            tr>td:first-child {
+                padding-right: 1em;
+                text-align: center;
+                width: 2em;
+            }
+
+            table img {
+                max-height: 16px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Legende du fond de carte CyclOSM</h2>
+
+        <h3>Infrastructure cyclable</h3>
+        <table>
+            <tr>
+                <td><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid blue 3px; vertical-align: middle;"></span></td>
+                <td>Piste cyclable séparée</td>
+            </tr>
+            <tr>
+                <td><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid #0050ff 3px; vertical-align: middle;"></span></td>
+                <td>Voie verte</td>
+            </tr>
+            <tr>
+                <td>
+                    <span  style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <line x1="10%" x2="150%" y1="10%" y2="10%" stroke-linecap="butt" stroke="blue" stroke-width="20%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="black" stroke-width="20%"/>
+                            <rect x="10%" y="10%" width="140%" height="60%" fill="#ccc"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Piste cyclable de ce côté de la chaussée</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <line x1="10%" x2="150%" y1="10%" y2="10%" stroke-linecap="butt" stroke-dasharray="6,3" stroke="blue" stroke-width="20%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="black" stroke-width="20%"/>
+                            <rect x="10%" y="10%" width="140%" height="60%" fill="#ccc"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Bande cyclable de ce côté de la chaussée</td>
+            </tr>
+            <tr>
+                <td>
+                    <span  style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <line x1="10%" x2="150%" y1="10%" y2="10%" stroke-linecap="butt" stroke-dasharray="6, 10" stroke="blue" stroke-width="20%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="black" stroke-width="20%"/>
+                            <rect x="10%" y="10%" width="140%" height="60%" fill="#ccc"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Bande partagée (avec bus ou véhicule à moteur) de ce côté de la chaussée <br/> Accotement de route ouvert aux vélos</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/oneway-cycle.svg"/></td>
+                <td>Double sens cyclable (sens unique voiture)</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <line x1="10%" x2="150%" y1="40%" y2="40%" stroke-linecap="butt" stroke-dasharray="2,1" stroke="#003e00" stroke-width="20%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="blue" stroke-width="10%"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Escaliers avec une rampe pour vélo</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #0050ff; opacity: 0.5; border-top: 1px solid #949494; border-bottom: 1px solid #949494;"></span></td>
+                <td>Vélorue</td>
+            </tr>
+        </table>
+
+        <h3>Infrastructure routière</h3>
+        <table>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #f4c3c3; opacity: 0.5; border-top: 1px solid #f6f6f6; border-bottom: 1px solid #f6f6f6;"></span></td>
+                <td>Autoroute</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #f4dfc3; opacity: 0.5; border-top: 1px solid #d8b267; border-bottom: 1px solid #d8b267;"></span></td>
+                <td>Route primaire</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #f6f8d2; opacity: 0.5; border-top: 1px solid #b1bb5d; border-bottom: 1px solid #b1bb5d;"></span></td>
+                <td>Route secondaire</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #f6f6f6; opacity: 0.5; border-top: 1px solid #7e7e7e; border-bottom: 1px solid #7e7e7e;"></span></td>
+                <td>Route tertiaire</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #f6f6f6; opacity: 0.5; border-top: 1px solid #949494; border-bottom: 1px solid #949494;"></span></td>
+                <td>Route standard</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="box-sizing: border-box; display: inline-block; height: 1em; width: 2em; background-color: #41ffa0; opacity: 0.5; border-top: 4px solid #7e7e7e; border-bottom: 4px solid #7e7e7e;"></span></td>
+                <td>Rue piétonne</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="box-sizing: border-box; display: inline-block; height: 1em; width: 2em; background-color: #21ffcc; opacity: 0.5; border-top: 3px solid #7e7e7e; border-bottom: 3px solid #7e7e7e;"></span></td>
+                <td>Zone de rencontre</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid #1e4374 5px; vertical-align: middle;"></span></td>
+                <td>Piste</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #bbffff; opacity: 0.5;"></span></td>
+                <td>30 km/h</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #21ffcc; opacity: 0.5;"></span></td>
+                <td>20 km/h</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #41ffa0; opacity: 0.5;"></span></td>
+                <td>Vitesse du pas ou accès interdit aux véhicules moteurs</td>
+            </tr>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #c0ccc4; opacity: 0.5; border-top: 1px solid #f6f6f6; border-bottom: 1px solid #f6f6f6;"></span></td>
+                <td>Vélos interdits</td>
+            </tr>
+            <tr>
+                <td><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid #5d8556 2px; vertical-align: middle;"></span></td>
+                <td>Chemin piéton</td>
+            </tr>
+            <tr>
+                <td><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid #00767c 2px; vertical-align: middle;"></span></td>
+                <td>Chemin</td>
+            </tr>
+            <tr>
+                <td><span style="display: inline-block; height: 0.5em; width: 2em; border-top: solid #835d4b 2px; vertical-align: middle;"></span></td>
+                <td>Piste équestre</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <rect x="10%" y="10%" width="140%" height="60%" fill="#f6f6f6"/>
+                            <line x1="10%" x2="150%" y1="40%" y2="40%" stroke-linecap="butt" stroke-dasharray="5,10" stroke="#dddddd" stroke-width="50%"/>
+                            <line x1="10%" x2="150%" y1="10%" y2="10%" stroke-linecap="butt" stroke="#7e7e7e" stroke-width="10%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="#7e7e7e" stroke-width="10%"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Mauvais revêtement (ok pour cross/vtc/gravel)</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <rect x="10%" y="10%" width="140%" height="60%" fill="#f6f6f6"/>
+                            <line x1="10%" x2="150%" y1="40%" y2="40%" stroke-linecap="butt" stroke-dasharray="8,3,8,8" stroke="#c4c4c4" stroke-width="50%"/>
+                            <line x1="10%" x2="150%" y1="10%" y2="10%" stroke-linecap="butt" stroke="#7e7e7e" stroke-width="10%"/>
+                            <line x1="10%" x2="150%" y1="70%" y2="70%" stroke-linecap="butt" stroke="#7e7e7e" stroke-width="10%"/>
+                        </svg>
+                    </span>
+                </td>
+                <td>Très mauvais revêtement (ok pour VTT)</td>
+            </tr>
+        </table>
+
+        <h3>Véloroutes</h3>
+        <table>
+            <tr>
+                <td style="width: 2em;"><span style="display: inline-block; height: 1em; width: 2em; background-color: #ff00ff; opacity: 0.5;"></span></td>
+                <td>Véloroute internationale</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; height: 1em; width: 2em; background-color: #aa00ff; opacity: 0.5;"></span></td>
+                <td>Véloroute nationale</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; height: 1em; width: 2em; background-color: #5500ff; opacity: 0.5;"></span></td>
+                <td>Véloroute régionale</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; height: 1em; width: 2em; background-color: #0000ff; opacity: 0.5;"></span></td>
+                <td>Véloroute locale</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; height: 1em; width: 2em; background-color: #d15000; opacity: 0.5;"></span></td>
+                <td>Itinéraire VTT</td>
+            </tr>
+            <tr>
+                <td><span style="display: inline-block; height: 2em; width: 2em; background: url('https://www.cyclosm.org/symbols/shields/rcn-junction_1x1.svg') no-repeat; background-position: center; padding-top: 1em; color: white; font-family: sans-serif; font-weight: 500;">16</span></td>
+                <td>Noeud cyclable numéroté</td>
+            </tr>
+        </table>
+
+        <h3>Premiers secours</h3>
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/hospital_11.svg"/></td>
+                <td>Hôpital</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/police.svg"/></td>
+                <td>Police</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/pharmacy.svg"/></td>
+                <td>Pharmacie</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/drinking_water_11.svg"/></td>
+                <td>Eau potable</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/toilets_11.svg"/></td>
+                <td>Toilettes</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/shelter_11.svg"/></td>
+                <td>Abri</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/emergency_phone.svg"/></td>
+                <td>Téléphone d'urgence</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/public_bath.svg"/></td>
+                <td>Bain public</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/shower.svg"/></td>
+                <td>Douche</td>
+            </tr>
+        </table>
+
+        <h3>Equipements spécifiques vélo</h3>
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/bicycle_repair_station.svg"/></td>
+                <td>Station de réparation vélo</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osmandapp/amenity/compressed_air.svg"/></td>
+                <td>Air compressé</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/shop/convenience_air.svg"/></td>
+                <td>Station service avec air compressé</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; width: 0.5em; height: 0.5em; background-color: blue; border-radius: 50%;"></span></td>
+                <td>Stationnement vélo</td>
+            </tr>
+
+            <tr>
+                <td><span style="display: inline-block; width: 0.5em; height: 0.5em; background-color: #0050ff; border-radius: 50%;"></span></td>
+                <td>Stationnement partagé vélo moto</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/amenity/bicycle_parking_secured_covered.svg"/></td>
+                <td>Stationnement vélo couvert et protégé</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/bicycle_rental_11.svg"/></td>
+                <td>Location vélo</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/bicycle_11.svg"/></td>
+                <td>Boutique vélo</td>
+            </tr>
+        </table>
+
+        <h3>Boutiques</h3>
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/supermarket.svg"/></td>
+                <td>Supermarché</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/convenience.svg"/></td>
+                <td>Magasin de proximité</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/post_office_11.svg"/></td>
+                <td>Bureau de poste</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/bar.svg"/></td>
+                <td>Bar</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/cafe_11.svg"/></td>
+                <td>Café</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/internet_cafe.svg"/></td>
+                <td>Internet cafe</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/fast_food.svg"/></td>
+                <td>Fast-food</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/pub_11.svg"/></td>
+                <td>Pub ou Brasserie</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/restaurant.svg"/></td>
+                <td>Restaurant</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/art.svg"/></td>
+                <td>Art</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/bakery.svg"/></td>
+                <td>Boulangerie</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/biergarten.svg"/></td>
+                <td>Biergarten</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/beverages.svg"/></td>
+                <td>Boisson</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/confectionery.svg"/></td>
+                <td>Patisserie</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/greengrocer.svg"/></td>
+                <td>Primeur</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/shop/ice_cream.svg"/></td>
+                <td>Glace</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/osm-bright-gl-style/amenities/post_box_11.svg"/></td>
+                <td>Boite aux lettres</td>
+            </tr>
+        </table>
+
+        <h3>Hébergement</h3>
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/apartment.svg"></td>
+                <td>Apartement</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/camping.svg"></td>
+                <td>Camping</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/caravan_park.svg"></td>
+                <td>Aire pour caravanes</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/chalet.svg"></td>
+                <td>Chalet</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/guest_house.svg"></td>
+                <td>Maison d'hôte</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/hostel.svg"/></td>
+                <td>Auberge</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/hotel.svg"/></td>
+                <td>Hotel</td>
+            </tr>
+
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/motel.svg"/></td>
+                <td>Motel</td>
+            </tr>
+        </table>
+
+        <h3>Nature</h3>
+
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/natural/cave.svg"/></td>
+                <td>Grotte</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/natural/peak.svg"/></td>
+                <td>Sommet</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/natural/saddle.svg"/></td>
+                <td>Col</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/waterfall.svg"/></td>
+                <td>Cascade</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="display: inline-block; height: 1.5em; width: 2em;">
+                        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                            <circle cx="50%" cy="50%" r="8" fill="green" opacity="0.3" />
+                            <circle cx="50%" cy="50%" r="2" fill="#b27f36" />
+                        </svg>
+                    </span>
+                </td>
+                <td>Arbre</td>
+            </tr>
+        </table>
+
+        <h3>Tourisme</h3>
+
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/archaeological_site.svg"/></td>
+                <td>Site Archæologique</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/castle.svg"/></td>
+                <td>Château</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/fort.svg"/></td>
+                <td>Fort</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/fortress.svg"/></td>
+                <td>Forteresse</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/information.svg"/></td>
+                <td>Information touristique</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/manor.svg"/></td>
+                <td>Manoir</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/museum.svg"/></td>
+                <td>Musée</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/monument.svg"/></td>
+                <td>Monument</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/office.svg"/></td>
+                <td>Office de tourisme</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/palace.svg"/></td>
+                <td>Palace</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/picnic.svg"/></td>
+                <td>Pique nique</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/viewpoint.svg"/></td>
+                <td>Point de vue</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/artwork.svg"/></td>
+                <td>Oeuvre d'art</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/audioguide.svg"/></td>
+                <td>Audioguide</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/board.svg"/></td>
+                <td>Panneau</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/bust.svg"/></td>
+                <td>Buste</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/city_gate.svg"/></td>
+                <td>Porte de citée</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/guidepost.svg"/></td>
+                <td>Panneaux de direction</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/map.svg"/></td>
+                <td>Carte</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/memorial.svg"/></td>
+                <td>Memorial</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/obelisk.svg"/></td>
+                <td>Obelisque</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/plaque.svg"/></td>
+                <td>Plaque</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/shrine.svg"/></td>
+                <td>Sanctuaire</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/statue.svg"/></td>
+                <td>Statue</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/historic/stone.svg"/></td>
+                <td>Pierre</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/tourism/terminal.svg"/></td>
+                <td>Terminal</td>
+            </tr>
+        </table>
+
+        <h3>Divers</h3>
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/highway/traffic_light.13.svg"/></td>
+                <td>Feu de circulation</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/amenity/traffic_calming.svg"/></td>
+                <td>Ralentisseur</td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="margin: auto; display: block; width: 10px; height: 10px; background-color: #0092da; -webkit-mask: url(https://www.cyclosm.org/symbols/osmfr/crossing.svg) no-repeat center; mask: url(https://www.cyclosm.org/symbols/osmfr/crossing.svg) no-repeat center; -webkit-mask-size: contain; mask-size: contain"></span>
+                </td>
+                <td>Passage vélo</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/highway/ford.svg"/></td>
+                <td>Gué</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/highway/elevator.12.svg"/></td>
+                <td>Ascenseur (bleu si compatible vélo)</td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span style="margin: auto; display: block; width: 10px; height: 10px; background-color: #555; -webkit-mask: url(https://www.cyclosm.org/symbols/openstreetmap-carto/square.svg) no-repeat center; mask: url(https://www.cyclosm.org/symbols/openstreetmap-carto/square.svg) no-repeat center; -webkit-mask-size: contain; mask-size: contain"></span>
+                    <span style="font-family: sans-serif; color: #555; font-weight: 500;">Foo</span>
+                </td>
+                <td>Gare ferroviaire</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/aerodrome.12.svg"/></td>
+                <td>Aerodrome</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/helipad.16.svg"/></td>
+                <td>Helipad</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/bunker.svg"/></td>
+                <td>Bunker</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/chimney.svg"/></td>
+                <td>Cheminée (par ex. usine)</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/crane.svg"/></td>
+                <td>Crâne</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/cross.svg"/></td>
+                <td>Croix</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/amenity/fountain.svg"/></td>
+                <td>Fontaine</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/lighthouse.svg"/></td>
+                <td>Phare</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/storage_tank.svg"/></td>
+                <td>Silo</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/water_tower.svg"/></td>
+                <td>Château d'eau</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/generator_wind.svg"/></td>
+                <td>Eolienne</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/man_made/windmill.svg"/></td>
+                <td>Moulin</td>
+            </tr>
+        </table>
+
+
+        <h3>Barrières</h3>
+
+        <table>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/cattle_grid.svg"/></td>
+                <td>Grille de sol pour bovins</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/cycle_barrier.svg"/></td>
+                <td>Barrière cyclable</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/gate.svg"/></td>
+                <td>Portillon</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/kissing_gate.svg"/></td>
+                <td>Portillon à chicane</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/lift_gate.svg"/></td>
+                <td>Hayon</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.cyclosm.org/symbols/openstreetmap-carto/barriers/stile.svg"/></td>
+                <td>Echalier</td>
+            </tr>
+            <tr>
+                <td><span style="margin: auto; display: block; width: 3px; height: 3px; background-color: #7d7c7c;"></span></td>
+                <td>Rocher</td>
+            </tr>
+        </table>
+    </body>
+</html>

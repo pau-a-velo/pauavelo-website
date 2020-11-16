@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="parallax">
+  <div id="top"></div>
+  <div class="parallax__layer">
+   {{ partial "nav.html" .}}
+   {{ partial "home/header.html" .}}
+  </div>
+  <div class="parallax__front">
+	<main>
+  {{ partial "home/agenda.html" . }}
+	{{ partial "home/blog.html" . }}
+  {{ partial "home/services.html" . }}
+  {{ partial "home/a-propos.html" . }}
+	</main>
+	{{ partialCached "footer.html" . }}
+  </div>
+</div>
+{{ end }}
+
+{{/* Le header fading est remplacé par le parallax */}}
+{{/* define "js" }}
+ <script  src="/js/pau-a-velo.js"></script>
+ <script>   window.console = window.console || function(t) {};</script>
+ <script>   if (document.location.search.match(/type=embed/gi)) {window.parent.postMessage("resize", "*"); }</script>
+{{ end */}}

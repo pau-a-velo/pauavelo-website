@@ -1,0 +1,15 @@
+name = "Pau à Vélo"
+license = "GPL v 3.0"
+licenselink = ""
+description = "Theme for pauavelo.fr"
+homepage = ""
+tags = ["blog", "agenda", "about"]
+features = ["blog", "events"]
+min_version = 0.19
+
+[author]
+  name = "Sébastien Lamy"
+  homepage = ""
+
+[taxonomies]
+  tag = "tags"

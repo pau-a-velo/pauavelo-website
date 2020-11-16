@@ -1,0 +1,24 @@
+<div class="pure-button-group" role="group">
+{{ range $i, $ca := .Parent.Sections }}
+  {{ $next_ca := cond (gt $i 0) (index $.Parent.Sections (add $i -1)) nil }}
+  {{ $previous_ca := cond (lt $i (len $.Parent.Sections)) (index $.Parent.Sections (add $i 1)) nil }}
+  {{ if eq $ca.Name $.Name }}
+    {{ with $previous_ca }}
+      <a href="{{ $previous_ca.RelPermalink }}#reunions" class="pure-button">&lt;<br/>
+      <span class="label">réunions du<br/>c.a. précédent</span></a>
+    {{ else }}
+      <button class="pure-button pure-button-disabled">&lt;<br/>
+      <span class="label">réunions du<br/>c.a. précédent</span></button>
+    {{ end }}
+      <a href="{{ $.Parent.RelPermalink }}" class="pure-button">^<br/>
+      <span class="label">historique<br/>des c.a.</span></a>
+    {{ with $next_ca }}
+      <a href="{{ $next_ca.RelPermalink }}#reunions" class="pure-button">&gt;<br/>
+      <span class="label">réunions du<br/>c.a. suivant</span></a>
+    {{ else }}
+      <button class="pure-button pure-button-disabled">&gt;<br/>
+      <span class="label">réunions du<br/>c.a. suivant</span></button>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>

@@ -1,0 +1,36 @@
+{{ $blog_pages := where .Site.RegularPages "Type" "blog" -}}
+{{ $agenda_pages := where .Site.RegularPages "Type" "agenda" -}}
+{{ $not_started := where $agenda_pages ".Date" "ge" (now.AddDate 0 0 -1) -}}
+{{ $not_ended := where $agenda_pages "Params.datefin" "ge" (now.Format "2006-01-02") -}}
+{{ $agenda_pages := union $not_started $not_ended -}}
+{{ $related := (union $agenda_pages $blog_pages).Related . | first 4 -}}
+{{ if (or $related .Params.tag) }}
+  <div class="related">
+    <h1>En rapport</h1>
+    {{ with $related }}
+      <div class="suggestions">
+        <h2>Suggestions</h2>
+        <div class="pure-g">        
+          {{ range . }}
+          <div class="pure-u-1 pure-u-sm-1-2">
+            {{ partialCached "cards/generic.html" (dict "display_summary" false "page" .) .Permalink "false" }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+    {{ with .Params.tags }}
+      <div class="tags">
+        <h2>Mots-clés</h2>
+        <ul>
+          {{ range sort . }}
+          <li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+    {{ partial "up_arrow" }}
+  </div>
+{{ else }}
+  {{ partial "up_arrow" }}
+{{ end }}

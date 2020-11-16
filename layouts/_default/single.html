@@ -1,0 +1,29 @@
+{{ define "main" -}}
+	{{ partialCached "nav.html" . }}
+  {{ $header := "nil" -}}
+  {{ $header_src:= "nil" -}}
+  {{ with .Scratch.Get "header-img" -}}
+    <div class="header-img"><img src="{{ .Permalink }}" /></div>
+  {{ end -}}
+	<main>
+		<article>
+			{{ .Scratch.Set "about_display" "long" }}
+			{{ partial "about.html" . }}
+			<h1>{{ .Title }}</h1>
+			{{ if (eq .Type "agenda") }}
+				{{ partial "single/event_header.html" . }}
+			{{ end }}
+			<div class="content">
+				{{ if eq .Params.toc "true" }}
+						<h2>Sommaire</h2>
+				    {{.TableOfContents}}
+				{{ end }}
+				{{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
+			</div>
+      {{ partial "single/share.html" . }}
+			{{ partial "single/related.html" . }}
+		</article>
+	</main>
+	{{ partialCached "footer.html" . }}
+	{{ partial "single/gallery_script.html" . (or .Params.imageGroupClass "content") }}
+{{ end }}

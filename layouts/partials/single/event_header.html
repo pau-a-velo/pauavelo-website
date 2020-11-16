@@ -1,0 +1,17 @@
+<div class="event-info pure-g">
+  <div class="pure-u">
+    {{ partial "event_date.html" . }}
+  </div>
+  <div class="pure-u">
+    <p class="event-location">
+        <span aria-hidden="true" title="Lieu" class="fas fa-map-marker-alt"></span>
+        <span class="sr-only">Lieu&nbsp;:</span>
+        {{ .Params.lieu }}
+    </p>
+    <p class="event-time">
+      <span aria-hidden="true" title="Horaire" class="fas fa-clock"></span>
+      <span class="sr-only">Horaire&nbsp;:</span>
+      {{ .Params.horaire }}
+    </p>
+  </div>
+</div>

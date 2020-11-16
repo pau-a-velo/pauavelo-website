@@ -1,0 +1,30 @@
+{{/* Le nombre d'articles du blog montrés sur la page d'accueil */}}
+{{ $blog_posts_count := .Params.blog_posts_count }}
+<section class="blog">
+		{{/* La liste des premiers articles
+		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
+		<h1 id="blog" class="section-title">Blog</h1>
+		{{ partial "up_arrow" }}
+		{{ $posts := first $blog_posts_count (where .Site.RegularPages "Type" "blog") }}
+		{{ $posts_len := len (where .Site.RegularPages "Type" "blog") }}
+		<div class="pure-g list-posts">
+			{{/* Les vignettes d'article */}}
+			{{ range $posts }}
+				<div class="card-container pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
+					{{ partialCached "cards/generic.html" (dict "display_summary" true "page" .) .Permalink "true" }}
+				</div>
+			{{ end }}
+				{{/* Les mots clés */}}
+			<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1-3" style="text-align:center;">
+        <h2 class="xcard-title">Mots-clés</h2>
+				{{ partial "tag-cloud.html" . }}
+        <p><a href="/tags" class="pure-button">Voir tous les mots-clés...</a>
+			</div>
+		</div>
+		{{/* Le lien pour afficher tous les articles */}}
+		{{ if or true (gt $posts_len $blog_posts_count) }}
+		<div class="view-all">
+			<a class="pure-button pure-button-primary" href="/blog/">... Voir tous les articles</a>
+		</div>
+		{{ end }}
+</section>

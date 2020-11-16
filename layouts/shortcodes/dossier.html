@@ -1,0 +1,7 @@
+<div class="pure-u portrait">
+<h3>{{ .Get "title" }}</h3>
+{{ with .Get "subtitle" }}<div class="subtitle">{{ . }}</div>{{ end }}
+{{ with .Get "author" }}<div class="author">({{ . }})</div>{{end}}
+<a href="pau-velo-dossier-{{ .Get "id" }}.pdf"><img src="{{ .Get "id" }}.jpg" alt="voir le dossier" /></a><br/>
+{{ with .Get "legend" }}<i>{{ . }}</i>{{end}}
+</div>

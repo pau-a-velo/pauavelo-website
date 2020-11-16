@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ partial "nav.html" . }}
+    <main class="ca-history" style="text-align:center;">
+      <div class="list-head">
+        <h1>{{ .Title }}</h1>
+      </div>
+      {{ range (.Site.GetPage "section" "ca").Sections }}
+        <h2 class="ca-title"><span class="year">{{ .Title }}</span></h2>
+          <div class="ca-wrapper">
+          <div class="ca">
+            {{ partialCached "trombi.html" . .Title }}
+            <div style="padding:1em 0;">
+            <a  class="pure-button pure-button-primary"
+                href="/ca/{{.Name}}#reunions">
+                Voir les réunions
+            </a>
+            </div>
+          </div>
+          </div>
+      {{ end }}
+    </main>
+  {{ partialCached "footer.html" . }}
+{{ end }}

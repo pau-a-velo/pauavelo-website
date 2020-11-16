@@ -1,0 +1,66 @@
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl: "/"
+# Title of your site
+title: "Pau à Vélo"
+
+newContentEditor: C:\Program Files\Notepad++\notepad++.exe
+
+#menu principal
+menu:
+  main:
+    - name: Agenda
+      url: "/#agenda"
+    - name: Blog
+      url: "/#blog"
+    - name: Services
+      url: "/#services"
+    - name: À propos
+      url: "/#a-propos"
+
+# le nombre d'article par page quand on liste tous les articles
+# (donc pas sur la page d'accueil)
+paginate: 12
+# theme : pauavelo
+
+# La langue dans lequel sont rédigé les articles du site
+defaultContentLanguage: fr
+
+# le format par défaut du frontmatter
+metaDataFormat: yaml
+
+#enlève les accent dans les noms des fichiers générés
+removePathAccents: true
+
+# Les mots clés affichés sont préservés et non url-izés
+preserveTaxonomyNames: true
+
+pluralizeListTitles: false
+
+# Les emoticon
+enableEmoji: true
+
+# Un timeout augmenté
+timeout: 60000
+
+
+## paramètre pour proposer du contenu en rapport avec l'article présenté
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: author
+      toLower: true
+      weight: 30
+    - name: tags
+      weight: 100
+    - name: date
+      weight: 10
+      pattern: 2006
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+

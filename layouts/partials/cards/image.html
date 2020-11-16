@@ -1,0 +1,6 @@
+{{ with  .Scratch.Get "image" }}
+  {{ $scaled := .Fit "551x230" }}
+  <div class="card-img">
+    <a href="{{ $.Permalink }}"><img src="{{ $scaled.Permalink }}" /></a>
+  </div>
+{{ end }}

@@ -1,0 +1,18 @@
+<section class="a-propos">
+  <h1 id="a-propos" class="section-title">À propos</h1>
+  {{ partial "up_arrow" }}
+  <div class="presentation">
+      {{ with .Site.GetPage "page" "a-propos" }}{{.Content}}{{end}}
+  </div>
+  {{ range (.Site.GetPage "section" "ca").Sections | first 1 }}
+    {{ partial "trombi" . }}
+    <div class="pure-button-group" role="group">
+    <a  class="pure-button"
+        href="/ca/">
+        Voir l'historique des<br/>
+        conseils d'administration
+    </a>
+    </div>
+  {{ end }}
+  {{ partial "up_arrow" }}
+</section>

@@ -1,0 +1,13 @@
+{{ $galleryimages := (.Page.Resources.ByType "image").Match (printf "%s/*" (.Get 0)) }}
+<div class="gallery" itemscope itemtype="https://schema.org/ImageGallery">
+{{ range $galleryimages }}
+{{ $thumbnail := .Resize "x150" }}
+
+		<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+		  <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+		      <img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" />
+		  </a>
+		</figure>
+
+{{ end }}
+</div>

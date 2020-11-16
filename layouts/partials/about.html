@@ -1,0 +1,16 @@
+{{ $long_display := eq (.Scratch.Get "about_display") "long" }}
+{{ $separator := cond $long_display "<br />" "," }}
+{{ $month_number := printf "%d" .PublishDate.Month}}
+{{ $month_label_index := cond $long_display .Site.Data.mois.long .Site.Data.mois.short }}
+
+<p class="about">
+  {{- with .Params.author -}}
+    par <span class="author">{{ . }}</span>{{ safeHTML $separator -}}
+  {{ end }}
+  publié le
+  <time datetime="{{.PublishDate}}">
+    {{- .PublishDate.Day }}
+    {{ index $month_label_index $month_number }}
+    {{ .PublishDate.Year -}}
+  </time>
+</p>

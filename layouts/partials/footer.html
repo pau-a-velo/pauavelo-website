@@ -1,0 +1,44 @@
+<footer id="footer">
+	<div class="pure-g">
+		<div class="pure-u-1">
+			<h3>Pau à Vélo</h3>
+		</div>
+		<div class="pure-u">
+        Association Pau à Vélo<br/>
+				MJC Berlioz<br/>
+				84 av. de Buros<br>
+      	64000 Pau
+		</div>
+		<div class="pure-u email">
+				{{ partial "mail_adress.html" }}
+		</div>
+		<div class="pure-u tel">
+				07 69 62 75 56
+				<a href="tel:+33769627556">
+						<span aria-hidden class="fas fa-phone-square" title="Appeler"></span>
+						<span class="sr-only">Appeler</span>
+				</a>
+		</div>
+		<div class="pure-u social">
+				<a aria-label="page facebook" href="https://www.facebook.com/pauaveloo">
+						<span aria-hidden class="fab fa-facebook" title="page facebook"></span>
+						<span class="sr-only">page facebook</span>
+				</a>
+				<a aria-label="profil twitter" href="https://twitter.com/pauavelo">
+					<span aria-hidden class="fab fa-twitter" title="profil twitter"></span>
+					<span class="sr-only">profil twitter</span>
+				</a>
+        <a aria-label="profil instagram" href="https://instagram.com/pauavelo">
+					<span aria-hidden class="fab fa-instagram" title="profil instagram"></span>
+					<span class="sr-only">profil instagram</span>
+				</a>
+				<a aria-label="RSS" href="{{.Site.BaseURL}}index.xml">
+						<span aria-hidden class="fas fa-rss" title="RSS"></span>
+						<span class="sr-only">RSS</span>
+				</a>
+		</div>
+		<div class="pure-u-1 credit">
+			Site Web réalisé par Sébastien Lamy et propulsé par <a href="https://gohugo.io/">Hugo</a>.
+		</div>
+	</div>
+</footer>

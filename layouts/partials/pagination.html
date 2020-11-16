@@ -1,0 +1,9 @@
+<div class="pagination" role="group" aria-label="changement de page">
+{{ if .Paginator.HasPrev }}
+	<a class="pure-button" href="{{ .Paginator.Prev.URL }}">Page précédente</a>
+{{ end }}
+Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}
+{{ if .Paginator.HasNext }}
+	<a class="pure-button" href="{{ .Paginator.Next.URL }}">Page suivante</a>
+{{ end }}
+</div>

@@ -1,0 +1,26 @@
+<section class="agenda">
+  <h1 id="agenda" class="section-title">Agenda</h1>
+  {{ partial "up_arrow" }}
+  <div class="pure-g">
+    {{ $pages := where .Site.RegularPages "Type" "agenda" -}}
+    {{ $not_started := where $pages ".Date" "ge" (now.AddDate 0 0 -1) -}}
+    {{ $not_ended := where $pages "Params.datefin" "ge" (now.Format "2006-01-02") -}}
+    {{ $pages := union $not_started $not_ended -}}
+    {{ $weighted_pages := where $pages "Weight" "!=" 0 -}}
+    {{ $standard_pages := where $pages "Weight" 0 -}}
+    {{ range $weighted_pages.ByWeight -}}
+        {{ partialCached "cards/event.html" . .Permalink }}
+    {{ end -}}
+    {{ range $standard_pages.ByDate -}}
+        {{ partialCached "cards/event.html" . .Permalink }}
+    {{ end -}}
+  {{ with not $pages -}}
+    <div class="pure-u empty-label">
+      L'agenda est vide pour le moment
+    </div>
+  {{ end -}}
+  </div>
+  <div class="view-all">
+    <a class="pure-button" href="/agenda">Voir les évènements archivés...</a>
+  </div>
+</section>

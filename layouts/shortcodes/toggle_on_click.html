@@ -1,0 +1,12 @@
+{{ $id := urlize (.Get "title") }}
+<i class="{{ .Get "icon" }} li-icon"></i>
+<a class="toggler" id="{{ $id }}_toggle" href="#{{$id}}">{{ .Get "title" }}</a>
+<div style="position:relative;">
+  <div class="clickToggled" id="{{ $id }}" >
+    {{ markdownify .Inner }}
+  </div>
+</div>
+<script type="text/javascript">
+  // Le contenu est visile sans javascript, c'est javascript qui le masque
+  document.getElementById("{{ $id }}").style.display="none"
+</script>

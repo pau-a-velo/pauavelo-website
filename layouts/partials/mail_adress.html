@@ -1,0 +1,36 @@
+pau@<span aria-hidden class="fas fa-bicycle" id="fubiBike"></span><span class="sr-only">vélo</span><br/>
+
+<!-- le bouton n'est là que pour afficher le code à ceux qui n'ont pas javascript -->
+<div id="mail_decode" class="pure-button">
+  <span id="fubiBikeText">décoder</span><br/>
+  (&nbsp;<span aria-hidden class="fas fa-bicycle"></span><span class="sr-only">vélo</span>
+  =
+  <span style="font-weight:bold;">fub.fr</span>&nbsp;)
+</div>
+
+
+<script type="text/javascript">
+var actionButton = document.getElementById("mail_decode");
+function bikeToFUB(e){
+  var fubiBike = document.getElementById("fubiBike");
+  var fubiBikeText = document.getElementById("fubiBikeText");
+  if ( fubiBike.classList.contains("fas") ){
+    fubiBike.classList.remove("fas", "fa-bicycle");
+    fubiBike.innerHTML = "fub.fr";
+    fubiBike.nextSibling.style.display = "none";
+    // actionButton.style.visibility="hidden";
+    // fubiBikeText.innerHTML = fubiBikeText.innerHTML.replace("décoder","encoder");
+  }
+  else{
+    fubiBike.classList.add("fas", "fa-bicycle");
+    fubiBike.innerHTML="";
+    fubiBike.nextSibling.style.display = "inline";
+    // fubiBikeText.innerHTML = fubiBikeText.innerHTML.replace("encoder","décoder");
+  }
+  // on fait disparaitre le bouton
+  actionButton.style.display = "none";
+  e.preventDefault();
+}
+//actionButton.addEventListener('click',bikeToFUB);
+bikeToFUB();
+</script>

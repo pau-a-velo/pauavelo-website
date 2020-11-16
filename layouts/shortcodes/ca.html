@@ -1,0 +1,10 @@
+ {{ range (.Site.GetPage "section" "ca").Sections | first 1 }}
+    {{ partialCached "trombi.html" . .Title }}
+    <div class="pure-button-group" role="group">
+    <a  class="pure-button"
+        href="/ca/">
+        Voir l'historique des<br/>
+        conseils d'administration
+    </a>
+    </div>
+  {{ end }}

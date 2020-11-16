@@ -1,0 +1,14 @@
+{{ if .Params.header }}
+  {{ .Scratch.Set "image" ((.Site.GetPage "media").Resources.GetMatch .Params.header) -}} 
+{{ else if .Resources }}
+  {{ .Scratch.Set "image" ((.Resources.ByType "image").GetMatch "header.*") -}}
+{{ end }}
+{{ .Scratch.Set "hasImage" (cond (not (.Scratch.Get "image")) false true) -}}
+<div class="card-container pure-u-1 pure-u-md-1-2">
+	<div class="card">
+		{{ partial "cards/event_info.html" . }}
+		<div class="card-text">
+			{{ partialCached "cards/summary.html" . .Permalink }}
+		</div>
+	</div>
+</div>

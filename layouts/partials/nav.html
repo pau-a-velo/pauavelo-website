@@ -1,0 +1,25 @@
+{{/*no big header for home*/}}
+{{/*- $logo_size := cond .IsHome "100x100" "75x75" -*/}}
+{{- $logo_size := "75x75" -}}
+{{- $logo_file := printf "/img/logo_%s_coul_blanc.png" $logo_size -}}
+<nav class="{{ cond .IsHome "home" "" }}" id="menu">
+  <div class="pure-g">
+    <div class="pure-u logo">
+      <h1 id="site-title"><a href="{{ .Site.BaseURL }}#"><img src="{{$logo_file}}" alt="Pau à Vélo"></a></h1>
+    </div>
+    <div class="pure-u custom-wrapper">
+        <a href="#" class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
+        <div class="pure-menu-horizontal pure-menu">
+            <ul class="pure-menu-list">
+          	{{ range .Site.Menus.main }}
+          		<li class="pure-menu-item"><a href="{{ .URL }}" class="pure-menu-link">{{ .Name }}</a></li>
+          	{{ end }}
+            </ul>
+        </div>
+    </div>
+  </div>
+</nav>
+<script type="text/javascript">
+  document.getElementById('menu').classList.add('js-enabled');
+</script>
+<div class="bicycle-girl"></div>
