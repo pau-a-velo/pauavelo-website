@@ -63,11 +63,6 @@ Une copie de ce dossier a également été transmise à la presse locale, aux vi
 {{< image src="vues-virtuelles/lons-rte-bayonne.jpg" caption="Lons route de Bayonne" width="300" >}}
 </div>
 
-![](PAV-Bvd Tourasse APRES.jpg)
-   
-![](XIV juillet Tactique.jpg)
-
-![](Gramont Piéton.jpg)
 
 Par ailleurs, sachez que nous sommes aussi signataires de [cette tribune rassemblant de nombreuses associations françaises de plaidoyer sur le vélo](https://www.weelz.fr/fr/tribune-les-associations-velo-montent-au-creneau-pour-une-france-cyclable/)
 

@@ -4,7 +4,7 @@
 			<div class="list-head pure-u-1">
 				<h1>{{ .Title }}</h1>
 			</div>
-			{{ $pages:= cond (eq .Section "agenda") (where .Data.Pages "Date" "le" now) .Data.Pages }}
+			{{ $pages:= cond (eq .Section "agenda") (where .Pages "Date" "le" now) .Pages }}
 			{{ $paginator := .Paginate $pages }}
 			{{ range $paginator.Pages }}
 				{{ if eq $.Section "agenda"}}

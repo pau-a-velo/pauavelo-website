@@ -55,4 +55,4 @@ Il n’y a de place que les jours de pluie!!
 >Geraldine et ses enfants!
 
 
-[1]:{{< relref "/blog/2018/Piste squattée à l'école des Lauriers" >}}
+[1]: /blog/2018/piste-squattee-a-lecole-des-lauriers

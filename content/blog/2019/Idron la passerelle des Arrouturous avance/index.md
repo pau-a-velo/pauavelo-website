@@ -35,4 +35,4 @@ dans cette affaire, ainsi que les personnes à mobilité réduite (vu
 l’étroitesse, l’accès irrégulier, boueux et sans trottoir dans la continuité).
 
 [Cette passerelle a été posée il y a tout juste un an]: http://idron.fr/mise-en-place-dune-passerelle-avenue-des-arrouturous/
-[nous avions écrit à la mairie d’Idron]: {{< relref "/blog/2018/Avenue des Arrouturous à Idron">}}
+[nous avions écrit à la mairie d’Idron]: /blog/2018/avenue-des-arrouturous-a-idron
