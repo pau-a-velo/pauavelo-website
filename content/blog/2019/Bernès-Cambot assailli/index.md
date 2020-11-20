@@ -24,7 +24,7 @@ de jouer à « saute-bouchon ». Sans parler du Fébus qui y passe fréquemment 
 allure... Quelle meilleure incitation à cesser d'utiliser sa voiture et à prendre
 le vélo ou le bus pour se rendre en ville ?
 
-<video controls width="100%" controls><source src="saute-bouchon-lyautey_640p.mp4" type="video/mp4"></video>
+{{< vimeo 480240326 >}}
 
 Mais ceux qui connaissent la peine quotidienne de se déplacer en automobile 
 ne sont pas toujours prêts à supporter cette incitation à changer, et à lui accorder

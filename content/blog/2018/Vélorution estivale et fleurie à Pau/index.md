@@ -82,10 +82,7 @@ et ont trouvé ça si chouette qu'ils ont fait deux tours _bonus_, poussant à b
 la patience des conducteurs motorisés bloqués aux entrées.
 
 <p style="text-align:center">
-<video width="320" height="568" controls>
- <source src="gramont.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+{{< vimeo 480239991 >}}
 </p>
 
 Ces cinq petits tours à vélo ont pourtant provoqué beaucoup [moins de bouchons

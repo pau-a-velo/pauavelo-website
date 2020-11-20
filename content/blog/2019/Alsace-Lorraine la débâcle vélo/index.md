@@ -101,7 +101,7 @@ sembler une option intéressante. Mais comme Moïse, vous ne serez pas autorisé
 Alors que le boulevard Alsace-Lorraine est en vue, un sens interdit "même pour 
 les vélos" met fin à votre aventure. **VOUS NE PASSEREZ PAS !**
 
-<video controls width="100%"><source src="vous-ne-passerez-pas.mp4" type="video/mp4"></video>
+{{< vimeo 480240241 >}}
  
 
 ### Pour venir au centre ville

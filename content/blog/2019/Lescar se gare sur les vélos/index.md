@@ -17,7 +17,7 @@ Il faut dire que la demande était forte, comme le suggèrent toutes ces places
 qui restent disponibles tant le dimanche après-midi que très tôt le matin. :unamused:
 
 <p style="text-align:center">
-<video width="400" height="220" controls muted="muted" src="lescar-rue-du-hiaa.mp4"></video>
+{{< vimeo "480259831?muted=1" >}}
 </p>
 
 Le cadeau de Noël pour la mairie de Lescar est déjà tout trouvé, c'est [La loi

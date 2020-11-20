@@ -48,11 +48,7 @@ urbaine]. Tout au long de leur randonnée du matin, ils ont collecté des
 ingrédients qu'ils ont cuisinés sur place à leur arrivée au jardin invisible.
 
 <p style="text-align:center">
-<video width="640" height="360" controls>
- <source src="DSCN0844_640p.webm" type="video/webm">
- <source src="DSCN0844_640p.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+{{< vimeo 480242206 >}}
 </p>
 
 {{< gallery "photos-jardin" >}}

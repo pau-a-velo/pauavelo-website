@@ -27,11 +27,7 @@ contes, maquillage, trotinettes, badminton, ping-pong, maquillage... Cette rue
 emblématique  du centre ville a affiché provisoirement un autre visage. 
 
 <p style="text-align:center">
-<video width="640" height="360" controls>
- <source src="VID_20190923_213628_640p.webm" type="video/webm">
- <source src="VID_20190923_213628_640p.mp4" type="video/mp4">
-Votre navigateur ne peut pas afficher cette vidéo.
-</video> 
+{{< vimeo 480260110 >}}
 </p>
 
 Ce jour, une place privilégiée a été accordée aux enfants, pour qui la 

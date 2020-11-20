@@ -126,7 +126,7 @@ objectif nécessite un fort engagement financier et politique.
 Pour son JT local du 19 octobre, France 3 a fait un bref reportage sur ce plan 
 vélo, dans lequel notre association apparait.
 
-<video controls width="100%"><source src="20181019-jt-local-1920-pau-sud-aquitaine-france3.mp4" type="video/mp4"></video>
+{{< vimeo 480239049 >}}
 
 Vous pouvez également trouver [un article qui parle de notre point de vue dans
 la République des Pyrénées][la_rep]

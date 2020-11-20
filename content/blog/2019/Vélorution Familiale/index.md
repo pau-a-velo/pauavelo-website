@@ -24,11 +24,7 @@ monde soit en sécurité[^1].
 
 
 <p style="text-align:center">
-<video width="320" height="568" controls>
- <source src="20190920_192009_640p.webm" type="video/webm">
- <source src="20190920_192009_640p.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+{{< vimeo 480268347 >}}
 </p>
 
 {{< gallery "photos" >}}
