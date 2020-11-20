@@ -58,6 +58,8 @@ nous a notamment interprété "Quand on s'promène au bord de l'eau", de Jean Ga
 
 La presse a bien couvert le sujet:
 
+{{< vimeo 480316443 >}}
+
 * France Bleu au [journal de 7h](presse/2018-03-05_FranceBleuBearn_Passerelle_Bizanos_032bps.mp3)
   et au [journal de 8h](presse/2018-03-05_FranceBleuBearn_Passerelle_Bizanos_2_032bps.mp3)
   le lundi
