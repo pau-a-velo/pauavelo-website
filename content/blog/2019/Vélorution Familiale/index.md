@@ -24,8 +24,11 @@ monde soit en sécurité[^1].
 
 
 <p style="text-align:center">
-{{< vimeo 480268347 >}}
+
+
+
 </p>
+<iframe src="https://player.vimeo.com/video/480268347" width="100%" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {{< gallery "photos" >}}
 
