@@ -2,7 +2,7 @@
 title: "Vélorution lumineuse"
 publishdate: 2020-12-13T22:16:53+01:00
 author: "Sébastien Lamy"
-date: 2020-12-20
+date: 2020-12-18
 lieu: "départ place Marguerite Laborde (face à la médiathèque André Labarrère)"
 horaire: 18h30
 tags:
