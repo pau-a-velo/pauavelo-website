@@ -2,7 +2,7 @@
 title: "Balade illuminée"
 publishdate: 2019-11-15T13:29:15+01:00
 author: "Sébastien Lamy"
-date: 2019-12-06T18:30:00+01:00
+date: 2019-12-18T18:30:00+01:00
 lieu: "Départ place de la reine Marguerite, à Pau"
 horaire: 18h30
 tags: 
