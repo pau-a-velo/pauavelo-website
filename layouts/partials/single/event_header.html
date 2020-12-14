@@ -3,15 +3,19 @@
     {{ partial "event_date.html" . }}
   </div>
   <div class="pure-u">
+    {{ with .Params.lieu}}
     <p class="event-location">
         <span aria-hidden="true" title="Lieu" class="fas fa-map-marker-alt"></span>
         <span class="sr-only">Lieu&nbsp;:</span>
-        {{ .Params.lieu }}
+        {{ . }}
     </p>
+    {{ end }}
+    {{ with .Params.horaire }}
     <p class="event-time">
       <span aria-hidden="true" title="Horaire" class="fas fa-clock"></span>
       <span class="sr-only">Horaire&nbsp;:</span>
-      {{ .Params.horaire }}
+      {{ . }}
     </p>
+    {{ end }}
   </div>
 </div>

@@ -6,14 +6,19 @@
     {{ partialCached "cards/image.html" . .Permalink }}
     <div class="event-description">
       {{ partial "cards/title.html" . }}
+
+      {{ with .Params.lieu}}
       <p class="event-location">
         <span aria-hidden="true" title="Lieu" class="fas fa-map-marker-alt"></span>
         <span class="sr-only">Lieu&nbsp;:</span>
-        {{ .Params.lieu }}</p>
+        {{ . }}</p>
+      {{ end }}
+      {{ with .Params.horaire }}
       <p class="event-time">
         <span aria-hidden="true" title="Horaire" class="fas fa-clock"></span>
         <span class="sr-only">Horaire&nbsp;:</span>
-        {{ .Params.horaire }}
+        {{ . }}
+      {{ end }}
       </p>
     </div>
   </div>
