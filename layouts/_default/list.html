@@ -4,7 +4,12 @@
 			<div class="list-head pure-u-1">
 				<h1>{{ .Title }}</h1>
 			</div>
-			{{ $pages:= cond (eq .Section "agenda") (where .Pages "Date" "le" now) .Pages }}
+			{{ $pages:= .Pages }}
+			{{ if eq .RelPermalink "/blog/"}}
+				{{ $pages = where (where .Site.Pages "Section" "blog") ".Parent.RelPermalink" "/blog/" }}
+			{{ else if eq .Section "agenda" }}
+				{{ $pages = where .Pages "Date" "le" now }}
+			{{ end }}
 			{{ $paginator := .Paginate $pages }}
 			{{ range $paginator.Pages }}
 				{{ if eq $.Section "agenda"}}

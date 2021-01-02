@@ -5,7 +5,7 @@
 		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
 		<h1 id="blog" class="section-title">Blog</h1>
 		{{ partial "up_arrow" }}
-		{{ $posts := first $blog_posts_count (where .Site.RegularPages "Type" "blog") }}
+		{{ $posts := first $blog_posts_count (where (where .Site.Pages "Section" "blog") ".Parent.RelPermalink" "/blog/") }}
 		{{ $posts_len := len (where .Site.RegularPages "Type" "blog") }}
 		<div class="pure-g list-posts">
 			{{/* Les vignettes d'article */}}
@@ -16,9 +16,9 @@
 			{{ end }}
 				{{/* Les mots clés */}}
 			<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1-3" style="text-align:center;">
-        <h2 class="xcard-title">Mots-clés</h2>
+				<h2 class="xcard-title">Mots-clés</h2>
 				{{ partial "tag-cloud.html" . }}
-        <p><a href="/tags" class="pure-button">Voir tous les mots-clés...</a>
+				<p><a href="/tags" class="pure-button">Voir tous les mots-clés...</a>
 			</div>
 		</div>
 		{{/* Le lien pour afficher tous les articles */}}
