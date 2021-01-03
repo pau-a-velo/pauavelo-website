@@ -16,7 +16,7 @@ entre le 15 octobre et le 30 novembre.
 
 Daphnée et toute sa famille, qui ont investi dans deux paires de gants de vélo.
 
-![](daphnee.jpg)
+![](famille.jpg)
 
 Alexandra avec sa jupe étanche,
 
