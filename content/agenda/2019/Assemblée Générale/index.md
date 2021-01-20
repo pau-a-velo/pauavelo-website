@@ -5,6 +5,7 @@ author: "Julie Champagne"
 date: 2019-12-11T19:00:00+01:00
 lieu: "La Grange de la MJC Berlioz, 84 av. de Buros, Pau"
 horaire: 20h
+header: ag.jpg
 tags:
 ---
 
