@@ -39,15 +39,11 @@ pour "vélorutionner" les déplacements en ville.
 
 <div style="text-align:center;padding:1em 0;">
 <a  class="pure-button pure-button-primary"
-    href="https://www.helloasso.com/associations/pau-a-velo/adhesions/2020-pau-a-velo"
+    href="https://adhesions.pauavelo.fr/nouvelle"
     target="_blank">
-    Adhésion en ligne<br/>
-    (CB uniquement)
+    Adhésion en ligne
 </a>
-<p style="font-size:smaller">Le formulaire d'adhésion en ligne est géré par
-<a href="https://helloasso.com/" target="_blank">helloasso</a>. Il nous évite
-de recopier ce que vous avez écrit. 
-Cependant il y a aussi un <a href="/a-propos/adhesion-pau-a-velo.pdf">formulaire
+<p style="font-size:smaller">Il y a aussi un <a href="/a-propos/adhesion-pau-a-velo.pdf">formulaire
 d'adhésion papier</a>.
 </div>
 {{< toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" >}}
