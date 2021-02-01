@@ -95,5 +95,13 @@ Table des matières
   * Axes manquants
     * Communication
     * Services
-  
+
+    
+Consultez également sur le sujet:
+
+* [la totalité des avis laissé sur internet pour le PDU][avis], dont beaucoup parlent de vélo.
+* [la page officielle du PDU sur le site de l'agglomération][officielle].
+
 [manifeste]: https://municipales2020.parlons-velo.fr/manifeste/download/Pau
+[avis]: pdu-pau-capbp-totalite-des-avis-deposes-sur-internet.pdf
+[officielle]: https://www.pau.fr/article/enquete-publique-du-plan-de-deplacements-urbains-pdu
