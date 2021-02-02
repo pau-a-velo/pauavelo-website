@@ -15,9 +15,25 @@ Le Conseil d’Administration de « Pau à Vélo » a l’honneur de vous convie
 
 <!--more-->
 
-Nous utiliserons la plate-forme zoom et le lien de connexion sera envoyé 
-ultérieurement. Nous ouvrirons la salle de réunion virtuelle à partir de 19h30 
-pour permettre de tester les connexions si besoin est.
+Nous utiliserons la plate-forme de conférence Zoom. Nous ouvrirons la salle de réunion virtuelle à partir de 19h30 pour permettre de tester les connexions si besoin est. 
+
+<div style="text-align:center;padding:1em 0;">
+<a  class="pure-button pure-button-primary"
+    href="https://zoom.us/j/98824020517"
+    target="_blank">
+    Se connecter à la salle de réunion
+</a>
+</div>
+
+Vous pouvez aussi nous rejoindre par téléphone à l'un des numéro suivant, en utilisant notre identifiant de réunion : **988 2402 0517**
+
+Serveurs téléphoniques en France pour la plateforme de conférence Zoom:
+
+* 01 86 99 58 31
+* 01 70 37 22 46
+* 01 70 37 97 29
+* 01 70 95 01 03
+* 01 70 95 03 50 
 
 
 ### Déroulé et Ordre du jour de l’assemblée générale
