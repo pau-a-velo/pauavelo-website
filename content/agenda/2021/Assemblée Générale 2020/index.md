@@ -58,3 +58,13 @@ Nous espérons que cette nouvelle année nous permettra de nous retrouver en vra
 en toute convivialité pour pédaler côte à côte, se serrer les coudes, faire 
 front quand il le faut, porter ensemble de beaux projets, et faire la 
 vélorution !
+
+Pour ceux qui souhaitent adhérer à notre association cette année, c'est par là !
+
+<div style="text-align:center;padding:1em 0;">
+<a  class="pure-button pure-button-primary"
+    href="https://adhesions.pauavelo.fr/nouvelle"
+    target="_blank">
+    Adhésion en ligne
+</a>
+</div>

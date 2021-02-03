@@ -73,7 +73,7 @@ soutien et allège le travail administratif une fois en place.
   Titulaire: `ASS PAU A VELO`<br/>
   N'oubliez pas de <u>mettre votre nom d'adhérent dans l'objet du virement</u>.
 * **Carte bancaire** uniquement via le
-  <a href="https://www.cotizasso.com/participation/adhesion/2736" target="_blank">formulaire en ligne</a>
+  <a href="https://adhesions.pauavelo.fr/nouvelle" target="_blank">formulaire en ligne</a>
 * **Chèque** libellé à « Association Pau à Vélo ».
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
