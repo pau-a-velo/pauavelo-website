@@ -8,9 +8,9 @@ tags:
   - proposition
 ---
 
-Suite à l'intervention du maire de Lescar dans la presse au sujet de la mise en 
+Suite à [l'intervention du Maire de Lescar dans la presse][presse] au sujet de la mise en 
 service du Hauban nord, et de l'augmentation du transit automobile qu'elle
-provoquera sur sa commune, notre association a écrit un courrier au maire
+provoquera sur sa commune, notre association lui a écrit un courrier
 pour lui signaler qu'un trafic de transit trop important est déjà en place à
 Lescar, et pour lui proposer des solutions pour remédier à se problème.
 
@@ -18,7 +18,7 @@ Vous pouvez consulter ici [le courrier de notre association][courrier]
 
 #### Edit du 30 janvier 2020
 
-Nous avons reçu une [réponse du maire de Lescar][reponse] datée
+Nous avons reçu une [réponse du Maire de Lescar][reponse], M. Laine, datée
 du 24 janvier, qui nous parle des équipements de loisir déjà mis en place, et du
 plan vélo à venir, dont l'élément le plus symbolique serait la création de voies
 piétonnes et cyclistes parallèles au boulevard de l'Europe.
@@ -34,3 +34,4 @@ Affaire à suvire donc !
 [courrier]: 2019-12-25-Courrier-Lescar-Hauban-et-Transit.pdf
 [reponse]: 2020-01-24-Hauban-Nord-et-Transit-dans-Lescar.pdf
 [facebook]: https://www.facebook.com/pauaveloo/posts/4008735279161030/
+[presse]: https://www.sudouest.fr/2019/12/20/les-vehicules-vont-se-detourner-vers-notre-centre-ville-le-hauban-nord-ouest-irrite-le-maire-de-lescar-6981020-4238.php
