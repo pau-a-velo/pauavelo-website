@@ -640,6 +640,9 @@ section.a-propos .presentation{
   border-radius: 10px;
   box-shadow: 2px 2px 4px 1px #0008;
 }
+.trombi.trombi-big .portrait img{
+  max-width: 480px;
+}
 .trombi .portrait h3, .trombi ul.membres .nom{
   color: #333;
 }

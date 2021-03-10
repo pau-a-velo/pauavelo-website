@@ -1,4 +1,4 @@
-<div class="trombi">
+<div class="{{ with .Params.trombi_class }}{{.}}{{else}}trombi{{end}}">
 {{ if eq .Params.trombi "portraits" }}
   {{ $portraits := .Resources.ByType "image" }}
   {{ range .Params.membres }}
@@ -6,7 +6,7 @@
     {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "%s.*") }}
     {{- with $portrait }}
       {{/* - $src := ($portrait.Fill "240x320").Permalink */}}
-      {{- $src := ($portrait.Resize "480x").Permalink }}      
+      {{- $src := ($portrait.Resize "480x").Permalink }}
       <img src="{{ $src }}" />
     {{- end }}
     <h3>{{ .nom }}</h3>

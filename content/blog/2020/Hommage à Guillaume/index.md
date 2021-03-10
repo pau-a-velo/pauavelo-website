@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Hommage à Guillaume"
 date: 2020-07-17T21:23:21+02:00
 author: "Sébastien Lamy"
