@@ -4,7 +4,7 @@ baseurl: "/"
 # Title of your site
 title: "Pau à Vélo"
 
-newContentEditor: kate
+newContentEditor: "kate -s pauavelo.fr"
 
 #menu principal
 menu:
