@@ -50,7 +50,11 @@ Pour reconquerir l'espace public, **Pau à Vélo propose dans [ses manifestes] l
 
 </div>
 
+Cette action a fait l'objet [d'un article sur le site de france bleu][francebleu], et [d'un article sur le journal la république][larep].
 
+
+[francebleu]: https://www.francebleu.fr/infos/environnement/a-pau-des-fausses-voitures-en-bois-pour-symboliser-leur-place-dans-l-espace-public-1615654883
+[larep]: https://www.larepubliquedespyrenees.fr/2021/03/13/pau-10-voitures-dans-la-marche-mobile-de-pau-a-velo,2798390.php
 
 [^1]: Bergeron, 2010
 [^2]: Données croisée (1)du PDU du syndicat des mobilité de pau béarn pyrénées, document B3, p144, (_Pour chaque voiture on mobilise 25m² à domicile et 40 à 50m² ailleurs_), et (2) [du recensement insee 2017](https://www.insee.fr/fr/statistiques/2011101?geo=EPCI-200067254#figure-3-12)(41162 ménages de l'agglomération ont une voiture, et 26353 ont deux voitures ou plus). Surface du parc Beaumont: 80000m²
