@@ -109,7 +109,7 @@ par échanges de messages.
 <div class="pure-button-group" role="group">
   <a  class="pure-button pure-button-primary"
       target="_blank"
-      href="https://framagenda.org/apps/calendar/p/nNgApqtBz78Nt7bp-cjAKBNinz6BHTomA-yqwANFrAETCr9XZf-gRxZeWnrabCQSZcN/dayGridMonth/now">
+      href="https://framagenda.org/apps/calendar/p/nNgApqtBz78Nt7bp-cjAKBNinz6BHTomA-yqwANFrAETCr9XZf-gRxZeWnrabCQSZcN-zwZiHPzAFS4RAsAD/dayGridMonth/now">
       Voir l'agenda<br/>
       des réunions
   </a>
