@@ -10,7 +10,7 @@ horaire: 15h
 ANNULÉ SUITE AU MESURES DE CONFINEMENT.
 Dans le cadre de la semaine du développement durable, en partenariat avec [écocène][]
 et avec la batucada de l'étoile Métisse, Pau à Vélo vous proposait une chouette
-vélorution. Cet évenement est annulé suite au mesure de confinement, ce n'est que
+vélorution[^1]. Cet évenement est annulé suite au mesure de confinement, ce n'est que
 partie remise !
 
 <!--more-->
