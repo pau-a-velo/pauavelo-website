@@ -4,6 +4,7 @@ date: 2021-05-07T14:01:36+02:00
 author: "Sébastien Lamy"
 tags:
   - jurancon
+  - dialogue mairie
 ---
 
 Notre association ou ses sympathisant ont envoyé à plusieurs reprise des dossiers et courriers à la ville de Jurançon :
