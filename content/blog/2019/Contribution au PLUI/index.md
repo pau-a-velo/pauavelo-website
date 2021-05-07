@@ -3,9 +3,10 @@ title: "Contribution au PLUI"
 date: 2019-10-04T23:07:25+01:00
 author: "Sébastien Lamy"
 tags:
- - courrier
+ - dossier
  - analyse
- - proposition
+ - propositions
+ - PLUi
 ---
 
 Le Plan Local d'Urbanisme Intercommunal (PLUI) est un document d'urbanisme qui,

@@ -3,9 +3,11 @@ title: "Contribution au PDU"
 date: 2020-10-20T12:23:37+01:00
 author: "Pau à Vélo"
 tags:
-  - courrier
   - analyse
   - PDU
+  - dossier
+  - concertation
+  - propositions
 ---
 
 Le plan de déplacement urbain (PDU) est le document de planification qui définit la stratégie en matière de mobilités de la communauté d'agglomération Pau Béarn Pyrénées pour les 10 prochaines années. Les habitants de l'agglomération étaient invités à déposer leurs observations et propositions pendant la période d’enquête du lundi 21 septembre 2020 au vendredi 23 octobre 2020. 
