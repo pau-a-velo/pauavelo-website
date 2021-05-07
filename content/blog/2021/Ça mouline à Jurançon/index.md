@@ -7,7 +7,7 @@ tags:
   - dialogue mairie
 ---
 
-Notre association ou ses sympathisant ont envoyé à plusieurs reprise des dossiers et courriers à la ville de Jurançon :
+Notre association ou ses sympathisants ont envoyé à plusieurs reprises des dossiers et courriers à la ville de Jurançon :
 
 * [Courrier d'un parent d'élève au maire de Jurançon](/blog/2018/courrier-dun-parent-deleve-au-maire-de-jurancon/)
 * [Propositions pour Jurançon](/blog/2019/propositions-pour-jurancon/)
