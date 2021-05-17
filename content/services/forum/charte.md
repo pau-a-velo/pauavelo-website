@@ -54,6 +54,7 @@ Cela va sans dire mais ça va mieux en le disant, les contenus tels que ceux lis
 - Les liens de parrainages et les publicités, qu'elles soient commerciales ou non. La mention de professionnel (ex : courtier) peut-être indiquée dans les messages, mais aucun lien ou caractère promotionnel ne peut être inséré ;
 - Les démarchages commerciaux, directs ou indirects ;
 - Et de manière plus générale, tous les messages contraires aux lois en vigueur en France.
+
 Les messages ne respectant pas ces règles impérieuses feront systématiquement l’objet d’un refus par les modérateurs et le compte pourra être supprimé sans notification. De plus, les messages sont réputés envoyés à toute la liste par défaut et un manquement de la modération ne saurait emporter la responsabilité de Pau à Vélo ou des modérateurs dans la diffusion du message.
 
 
