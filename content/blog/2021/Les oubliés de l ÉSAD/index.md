@@ -27,8 +27,8 @@ Aussi pourquoi l’ÉSAD n’aurait-elle pas droit à son abri vélo ?
 
 <div class="gallery">
 {{< image src="abris-employes/01-pau_saint_louis_mairie.jpg" caption="Abri vélo dans la cour de la mairie de Pau" width="160" >}}
-{{< image src="abris-employes/02-1-pau_lilas_piano2.JPG" caption="Allées de Morlaàs : vaste abri vélo sécurisé au Piano" width="160" >}}
-{{< image src="abris-employes/02-2-pau_lilas_piano2_interieur.JPG" caption="Les employés de l'agglo peuvent entreposer leur vélo en toute sérénité" width="160" >}}
+{{< image src="abris-employes/02-1-pau_lilas_piano2.JPG" caption="avenue des Lilas (1/2) : vaste abri sécurisé au Piano" width="160" >}}
+{{< image src="abris-employes/02-2-pau_lilas_piano2_interieur.JPG" caption="avenue des Lilas (2/2) : les employés de l'agglo peuvent entreposer leur vélo en toute sérénité" width="160" >}}
 {{< image src="abris-employes/03-pau_salengro_centre_tehnique_municipal1.jpg" caption="Ici au centre technique municipal rue Roger Salengro à Pau" width="160" >}}
 {{< image src="abris-employes/04-pau_lacoste_usine_tramways2.JPG" caption="A l'ancienne usine des Tramways, un abri sécurisé récent" width="160" >}}
 {{< image src="abris-employes/05-pau_laborde_mediatheque2.jpg" caption="Les employés de la médiathèque ont aussi leur abri" width="160" >}}
@@ -38,9 +38,7 @@ Aussi pourquoi l’ÉSAD n’aurait-elle pas droit à son abri vélo ?
 
 #### 2. Abris vélos dans les écoles primaires
 
-Ensuite, la municipalité actuelle est parfaitement convaincue, sinon de la nécessité, au moins du confort d’un abri vélo, puisque aux élections municipales de 2020 le candidat Bayrou annonçait 
-
-> _L’équipement de toutes les écoles publiques du 1er degré d’un parking vélos et trottinettes couvert._
+Ensuite, la municipalité actuelle est parfaitement convaincue, sinon de la nécessité, au moins du confort d’un abri vélo, puisque aux élections municipales de 2020 le candidat Bayrou annonçait _L’équipement de toutes les écoles publiques du 1er degré d’un parking vélos et trottinettes couvert._
 
 Pourquoi cette conviction ne s’est-elle pas étendue à l’ÉSAD ? Un étudiant de 20 ans en arts vaut-il moins qu’un écolier de 9 ans en CM1 ?
 
@@ -64,9 +62,9 @@ Enfin, la période actuelle est particulièrement favorable à l’installation 
 - 16/06/2020 : [nous envoyons un mail de relance](mails/20200616.pdf) aux services de la ville. Nous ne recevrons aucune réponse.
 - 27/04/2021 : questionnés en réunion, les services de la ville nous répondent que toujours rien n’a été décidé concernant un abri vélo à l’ÉSAD.
 
-En ce mois de mai 2021 cependant, des arceaux ont été installés mais non abrités et dans la rue. S’ils conviendront aux quidams le temps d’une visite au musée, ils ne constituent pas en revanche une solution pérenne pour les employés de l'agglo, les étudiants et professeurs de l’ÉSAD. Pourquoi la ville de Pau fait-elle la sourde oreille à nos préconisations?
+En ce mois de mai 2021 cependant, des arceaux ont été installés mais non abrités et dans la rue. S’ils conviendront aux quidams le temps d’une visite au musée, ils ne constituent pas en revanche une solution pérenne pour les étudiants, enseignants et personnels de l’ÉSAD. Pourquoi la ville de Pau fait-elle la sourde oreille à nos préconisations?
 
-Sur place, ces arceaux dans la rue semblent boudés par les étudiants et les vélos continuent d’êtreattachés tant bien que mal dans l’enceinte de l’école...
+Sur place, ces arceaux dans la rue semblent boudés par les étudiants et les vélos continuent d’être attachés tant bien que mal dans l’enceinte de l’école...
 
 ![](arceaux-boudes.jpg)
 
