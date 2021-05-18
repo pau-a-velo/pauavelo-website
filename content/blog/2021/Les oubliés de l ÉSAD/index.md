@@ -58,11 +58,11 @@ Enfin, la période actuelle est particulièrement favorable à l’installation 
 
 - 27/11/2019 : [nous contactons l’ÉSAD par mail](mails/20191127.pdf) pour une prise d’informations. Réponse : c’est avec les services de la ville qu’il faut traiter.
 - 13/01/2020 : de bonne volonté mais sans aucune concertation, [l’agglo nous annonce par mail](mails/20200113agglo.pdf) la pose de 12 arceaux (erreur : 6 arceaux sur le plan joint) dans la rue Lalanne dès le lendemain.
-- 14/01/2020 : heureusement ce jour-là nous avions une réunion avec les services de la ville. Nous pointons le nombre trop restreint de 6 arceaux et insistons pour du stationnement couvert financé par le programme Alvéole.
+- 14/01/2020 : heureusement ce jour-là nous avions une réunion avec les services de la ville. Nous pointons le nombre trop restreint de 6 arceaux - qui finalement n'ont pas été posés - et insistons pour du stationnement couvert financé par le programme Alvéole.
 - 16/06/2020 : [nous envoyons un mail de relance](mails/20200616.pdf) aux services de la ville. Nous ne recevrons aucune réponse.
 - 27/04/2021 : questionnés en réunion, les services de la ville nous répondent que toujours rien n’a été décidé concernant un abri vélo à l’ÉSAD.
 
-En ce mois de mai 2021 cependant, des arceaux ont été installés mais non abrités et dans la rue. S’ils conviendront aux quidams le temps d’une visite au musée, ils ne constituent pas en revanche une solution pérenne pour les étudiants, enseignants et personnels de l’ÉSAD. Pourquoi la ville de Pau fait-elle la sourde oreille à nos préconisations?
+En ce mois de mai 2021 cependant, des arceaux ont été installés mais non abrités et dans la rue. S’ils conviendront aux quidams le temps d’une visite au musée, ils ne constituent pas en revanche une solution pérenne pour les étudiants, les enseignants et le personnel de l’ÉSAD. Pourquoi la ville de Pau fait-elle la sourde oreille à nos préconisations?
 
 Sur place, ces arceaux dans la rue semblent boudés par les étudiants et les vélos continuent d’être attachés tant bien que mal dans l’enceinte de l’école...
 
