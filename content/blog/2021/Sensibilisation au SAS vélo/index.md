@@ -36,7 +36,7 @@ A des fins pédagogiques, 30 panneaux de rappel de l'utilité de cet aménagemen
 
 ![Photo de l'affiche pédagogique sur le sas vélo dans son contexte, sous le feu rouge](feu-rouge-affiche-sas-velo.jpg)
 
- Malheureusement, ces panneaux ont été rapidement enlevés par les services de la ville, qui n'ont rien proposé nis mis en place en contrepartie pour prolonger cette action pédagogique. Pourtant, **franchir la ligne qui délimite le SAS vélo est considéré comme un non respect du feu rouge, et donc passible d'une amende de 135 euros**. A notre connaissance, cette sanction n'a jamais été mise en pratique par la police municipale ou nationale dans l'agglomération de Pau.
+ Malheureusement, ces panneaux ont été rapidement enlevés par les services de la ville, qui n'ont rien proposé ni mis en place en contrepartie pour prolonger cette action pédagogique. Pourtant, **franchir la ligne qui délimite le SAS vélo est considéré comme un non respect du feu rouge, et donc passible d'une amende de 135 euros**. A notre connaissance, cette sanction n'a jamais été mise en pratique par la police municipale ou nationale dans l'agglomération de Pau.
  
  Le chemin semble encore long avant que cet aménagement bénéficie d'un respect à la hauteur des ses bienfaits !
  
