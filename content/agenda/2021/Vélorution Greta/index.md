@@ -25,20 +25,18 @@ Ce film retrace l'histoire de [Greta Thungerg][greta], militante incontournable 
 
 **L'horaire de fin de la vélorution est assez proche du début du film, prévoyez un repas dans le sac, ou de quoi l'acheter en ville.**
 
-Les mots simples et puissants de Greta alertent sur la gravité du changement climatique pour sa génération, et plus encore sur notre inaction et notre complaisance coupable. Ils ont réveillé de nombreuses consciences, ils ont impulsé un mouvement fort.
-
 Pour la petite histoire, dans la fiction, en 1995, le robot T-800, venu du futur, roulait en moto et protégeait le jeune John Connor (John est le futur sauveur de l'humanité,  d'après le scénario de Terminator 2).
 
 ![](moto-terminator.jpg)
 
 Dans la réalité, en 2019, Greta a converti Arnold au vélo, parcequ'en fait, dans la réalité, ça marche mieux pour sauver l'humanité ! :wink:
 
-![Toi aussi devient un héro : enfourche un vélo](hero-velo.jpg) 
-
 ![](arnold-greta.jpg)
 _photo  tirée d'un [tweet de Arnold Schwarzenegger](https://twitter.com/Schwarzenegger/status/1191493616213975040)_.
 
 On vous attend le 24 septembre !
+
+![Toi aussi devient un héro : enfourche un vélo](hero-velo.jpg) 
 
 [^1]: _La vélorution, anagramme de révolution commençant par vélo, est le nom d'un mouvement international qui cherche à encourager la population à se libérer de l'emprise des transports polluants dans les déplacements quotidiens. <br> Le terme désigne également des rassemblements cyclistes, plus connus sous le nom de « masse critique ». Ces évènements ont pour but de promouvoir la bicyclette et la mobilité active dans les déplacements quotidiens, ainsi que faire pression sur les pouvoirs publics pour obtenir de meilleures infrastructures cyclables et réduire la place de la voiture individuelle en ville. (Source : Wikipédia)._
 
