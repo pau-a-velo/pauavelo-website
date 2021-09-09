@@ -23,9 +23,9 @@ trombi_class: "trombi trombi-big"
 # avec les photo si "autotrombi" vaut "true"
 membres:
   - nom: "Aline Morize-Rielland"
-    role: administrateur
+    role: administratrice
   - nom: "Aurélie Erb"
-    role: administrateur
+    role: administratrice
   - nom: "Bertrand Ottmer"
     role: administrateur
   - nom: "Camille Cuisinier"
@@ -35,7 +35,7 @@ membres:
   - nom: "Jean-Jacques Mauroy"
     role: administrateur
   - nom: "Julie Champagne"
-    role: administrateur
+    role: administratrice
   - nom: "Julien Garnier"
     role: administrateur
   - nom: "Olivier Llinares"
