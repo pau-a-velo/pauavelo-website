@@ -27,7 +27,7 @@ Ce film retrace l'histoire de [Greta Thungerg][greta], militante incontournable 
 
 Les mots simples et puissants de Greta alertent sur la gravité du changement climatique pour sa génération, et plus encore sur notre inaction et notre complaisance coupable. Ils ont réveillé de nombreuses consciences, ils ont impulsé un mouvement fort.
 
-Dans la fiction, en 1995, le robot T-800, venu du futur, roulait en moto et protégeait le jeune John Connor (John est le futur sauveur de l'humanité,  d'après le scénario de Terminator 2).
+Pour la petite histoire, dans la fiction, en 1995, le robot T-800, venu du futur, roulait en moto et protégeait le jeune John Connor (John est le futur sauveur de l'humanité,  d'après le scénario de Terminator 2).
 
 ![](moto-terminator.jpg)
 
