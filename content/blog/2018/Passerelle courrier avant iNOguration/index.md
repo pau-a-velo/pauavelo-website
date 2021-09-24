@@ -16,14 +16,12 @@ aliases:
 
 Une iNOguration de la passerelle entre Bizanos et Mazères-Lezons est annoncée
 pour le 18 mai. Rien ne nous laisse entendre que [notre proposition d'aménagement
-pour son accessibilité]
-({{< relref "/blog/2018/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf)
+pour son accessibilité](/blog/2018/nous-avons-exige-une-passerelle-accessible-a-tous/docs/livret-projet.pdf)
 a été étudiée avec sérieux. Aussi, le bref échange que
 nous avons eu avec M.Bayrou lors du forum citoyen du 20 avril semble
 confirmer que l'ascenseur reste la seule et hypothétique option envisagée.
 
-Nous avons écrit [un deuxième courrier de relance à M. Bayrou]
-(20180429-relance2-passerelle-pau-a-velo.pdf) pour demander à nouveau:
+Nous avons écrit [un deuxième courrier de relance à M. Bayrou](20180429-relance2-passerelle-pau-a-velo.pdf) pour demander à nouveau:
 
 * Une étude sérieuse de notre projet et une publication de cette étude.
 * La mise en place de réunions, entre l'agglomération et les associations
