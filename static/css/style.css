@@ -236,11 +236,15 @@ Main menu bar
       background-color: transparent;
       box-shadow:none;
     }
+    #menu.js-enabled .pure-menu{
+      text-align:center;
+    }
     #menu.js-enabled .custom-wrapper{
       position: absolute;
-      top:0.4em;
-      right:0;
-      height: 34px;
+      top:7px;
+      right:7px;
+      height: 50px;
+      width: 100%;
       border-radius: 3px;
       overflow: hidden;
       -webkit-font-smoothing: antialiased;
@@ -250,38 +254,38 @@ Main menu bar
       transition: height 0.5s, background-color 1s;
     }
     #menu.js-enabled.open .custom-wrapper{
-      height:12em;
+      height:17em;
       background-color: #222d;
     }
     .custom-toggle {
         background-color: #222;
-        border-radius: 3px;
-        width: 34px;
-        height: 34px;
+        width: 50px;
+        height: 50px;
     }
     #menu.js-enabled .custom-toggle {
       display:inline-block;
       position:relative;
+      border-radius: 7px;
     }
     .custom-toggle .bar {
         background-color: #fff;
         display: block;
-        width: 20px;
-        height: 4px;
+        width: 30px;
+        height: 5px;
         border-radius: 100px;
         position: absolute;
-        top: 20px;
-        right: 7px;
+        top: 30px;
+        right: 11px;
         -webkit-transition: all 0.5s;
         -moz-transition: all 0.5s;
         -ms-transition: all 0.5s;
         transition: all 0.5s;
     }
     .custom-toggle .bar:first-child {
-        -webkit-transform: translateY(-10px);
-        -moz-transform: translateY(-10px);
-        -ms-transform: translateY(-10px);
-        transform: translateY(-10px);
+        -webkit-transform: translateY(-15px);
+        -moz-transform: translateY(-15px);
+        -ms-transform: translateY(-15px);
+        transform: translateY(-15px);
     }
     .custom-toggle.x .bar {
         -webkit-transform: rotate(45deg) translate(-3px,-4px);
@@ -296,7 +300,8 @@ Main menu bar
         transform: rotate(-45deg) translateY(4px,-4px);
     }
     #menu.js-enabled li a.pure-menu-link{
-      padding:0.2em 1em;
+      padding:0.4em 1em;
+      font-size:1.6em;
     }
     #menu.js-enabled .pure-menu-horizontal ul.pure-menu-list li{
        display: block;
@@ -468,7 +473,9 @@ Mise en forme commune entre les pages pleines et les carte résumées
           box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);*/
 }
 .card .card-text, .card .event-description{
-  padding:0 1.2em;
+  font-family: Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
+  padding: 0 1.2em;
+  hyphens: auto;
 }
 .card .card-title a{
   text-decoration: none;
@@ -479,6 +486,7 @@ Mise en forme commune entre les pages pleines et les carte résumées
 }
 .card .card-summary{
   line-height: 1.5em;
+  text-align: justify;
 }
 .card.with-image .card-summary{
   overflow: hidden;
@@ -636,12 +644,14 @@ section.a-propos .presentation{
 }
 .trombi .portrait img{
   /* display:block; */
-  max-width: 240px;
+  width: 240px;
+  max-width:100%;
   border-radius: 10px;
   box-shadow: 2px 2px 4px 1px #0008;
 }
 .trombi.trombi-big .portrait img{
-  max-width: 480px;
+  width: 480px;
+  max-width:100%;
 }
 .trombi .portrait h3, .trombi ul.membres .nom{
   color: #333;
@@ -798,6 +808,7 @@ article {
   background-color: #f8f8f8;
   max-width:40em;
   margin: 0 auto;
+  font-family: Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
 }
 article .about, article h1, article .content{
   padding:0 1em;
@@ -817,6 +828,8 @@ article h1{
 article .content {
   font-size:1.1em;
   line-height:1.5;
+  text-align: justify;
+  hyphens:auto;
 }
 article section.footnotes{
   font-size:0.75em;

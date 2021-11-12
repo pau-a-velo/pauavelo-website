@@ -30,7 +30,7 @@ Le 31 octobre donc, sous une pluie battante, de nombreux zombies sont sortis de 
 {{< gallery depart >}}
 
 
-Ils étaient comme aimanté par  le lieu qui tourmente les habitants de l'agglomération paloise : **Le carrefour situé boulevard Alsace-Lorraine, qui jusqu'à présent n'avait pas de nom**. Un carrefour aussi machiavélique se devait d'être baptisée par tout le gratin occulte. **Un nom simple et sobre a été choisi : « Carrefour de l'horreur »**.  La plaque a été dévoilée en arrivant sur place, et une banderole  a été déployée pour alerter quiquonque oserait  s'aventurer en ce lieu maudit.
+Ils étaient comme aimanté par  le lieu qui tourmente les habitants de l'agglomération paloise : **Le carrefour situé boulevard Alsace-Lorraine, qui jusqu'à présent n'avait pas de nom**. Un carrefour aussi machiavélique se devait d'être baptisé par tout le gratin occulte. **Un nom simple et sobre a été choisi : « Carrefour de l'horreur »**.  La plaque a été dévoilée en arrivant sur place, et une banderole  a été déployée pour alerter quiquonque oserait  s'aventurer en ce lieu maudit.
 
 > Vous qui entrez ici, abandonnez toute espérance.
 
