@@ -303,7 +303,7 @@ Main menu bar
       padding:0.4em 1em;
       font-size:1.6em;
     }
-    #menu.js-enabled .pure-menu-horizontal ul.pure-menu-list li{
+    #menu.js-enabled .pure-menu-horizontal ul.pure-menu-list li, #menu.js-enabled .pure-menu-horizontal ul.pure-menu-list{
        display: block;
     }
     .inner h1 {
