@@ -15,16 +15,17 @@ Les cours ont lieu **à la MJC Berlioz, au 84 avenue de Buros, à Pau**.
 
 * **Tous les mardi matins de 10h à 12h**
 * **Environ un samedi sur deux, de 14h30 à 16h**.   
-_Détail des dates le samedi pour 2020-2021_
-    * 10 et 17 octobre 2020
-    * 7 et 21 novembre 2020
-    * 5 et 19 décembre 2020
-    * 9 et 23 janvier 2021
-    * 6 et 27 février 2021
-    * 13 et 27 mars 2021
-    * 10 et 24 avril 2021
-    * 8 et 29 mai 2021
-    * 12 et 26 juin 2021
+_Détail des dates le samedi pour 2021-2022_
+    * 25 septembre 2021
+    * 2, 16 et 30 octobre 2021
+    * 13 et 27 novembre 2021
+    * 11 et 18 décembre 2021
+    * 8 et 22 janvier 2022
+    * 5 et 19 février 2022
+    * 5 et 19 mars 2022
+    * 2, 16 et 30 avril 2022
+    * 14 et 28 mai 2022
+    * 11 et 25 juin 2022
     
 
 **Il est nécessaire de s'inscrire pour participer aux cours**, contactez-nous aux coordonnées indiquées en [bas de page]. Il vous sera également demandé d'adhérer à notre association (**tarif annuel 15 euros**).
