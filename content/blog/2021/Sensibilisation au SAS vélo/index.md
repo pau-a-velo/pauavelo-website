@@ -6,6 +6,7 @@ tags:
   - action
   - sas vélo
   - Alsace-Lorraine
+  - médias
 ---
 
 Notre association a mené une action de sensibilisation au  sas vélo, auprès des automobilistes qui circulaient sur le boulevard Alsace Lorraine. **Le sas vélo, c'est la zone réservée aux cyclistes juste devant le feu rouge, pour qu'ils puissent s'y positionner en premier devant toutes les voitures**. Pour aider à voir et respecter cet espace, une barrière physique était mise en place à chaque passage au rouge du feu.
@@ -36,8 +37,12 @@ A des fins pédagogiques, 30 panneaux de rappel de l'utilité de cet aménagemen
 
 ![Photo de l'affiche pédagogique sur le sas vélo dans son contexte, sous le feu rouge](feu-rouge-affiche-sas-velo.jpg)
 
+L'action a fait l'objet d'[un article dans le journal "La République des Pyrénées"][la rep].
+ 
  Malheureusement, ces panneaux ont été rapidement enlevés par les services de la ville, qui n'ont rien proposé ni mis en place en contrepartie pour prolonger cette action pédagogique. Pourtant, **franchir la ligne qui délimite le SAS vélo est considéré comme un non respect du feu rouge, et donc passible d'une amende de 135 euros**. A notre connaissance, cette sanction n'a jamais été mise en pratique par la police municipale ou nationale dans l'agglomération de Pau.
  
  Le chemin semble encore long avant que cet aménagement bénéficie d'un respect à la hauteur des ses bienfaits !
  
 {{< gallery "photos" >}}
+
+[la rep]: https://www.larepubliquedespyrenees.fr/economie/transports/pau-3-infos-vite-lues-ce-mercredi-5248840.php
