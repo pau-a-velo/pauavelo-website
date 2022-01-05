@@ -3,7 +3,7 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.77.0"
+  HUGO_VERSION = "0.89.4"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   HUGO_BASEURL = "http://www.pauavelo.fr/"
@@ -12,6 +12,6 @@
   command = "hugo -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.77.0"
+  HUGO_VERSION = "0.89.4"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
