@@ -4,7 +4,14 @@ baseurl: "/"
 # Title of your site
 title: "Pau à Vélo"
 
-newContentEditor: "kate -s pauavelo.fr"
+# BUG: ça ne marche pas de passer des arguments à l'éditeur
+# newContentEditor: "kate -s pauavelo.fr"
+newContentEditor: "kate"
+
+security:
+  exec:
+    allow: "kate"
+    osEnv: ".*"
 
 #menu principal
 menu:

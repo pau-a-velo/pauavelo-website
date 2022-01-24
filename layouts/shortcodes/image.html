@@ -3,7 +3,7 @@
 {{ $width := int (or (.Get "width") 800) }}
 {{ with $image }}
   {{ $thumbnail := cond (gt .Width $width ) (.Resize (printf "%dx" $width )) . }}
-	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+	<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
     {{ with $caption }}
     <figcaption itemprop="caption description">{{ . }}</figcaption>
     {{ end }}
