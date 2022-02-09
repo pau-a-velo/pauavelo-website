@@ -11,7 +11,7 @@ pau@<span aria-hidden class="fas fa-bicycle" id="fubiBike"></span><span class="s
 
 <script type="text/javascript">
 var actionButton = document.getElementById("mail_decode");
-function bikeToFUB(e){
+function bikeToFUB(){
   var fubiBike = document.getElementById("fubiBike");
   var fubiBikeText = document.getElementById("fubiBikeText");
   if ( fubiBike.classList.contains("fas") ){
@@ -29,7 +29,6 @@ function bikeToFUB(e){
   }
   // on fait disparaitre le bouton
   actionButton.style.display = "none";
-  e.preventDefault();
 }
 //actionButton.addEventListener('click',bikeToFUB);
 bikeToFUB();
