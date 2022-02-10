@@ -21,7 +21,7 @@ proposant une manifestation déambulatoire de 15h à 18h sur deux circuits en
 boucle permettant un relais toutes les 30 minutes sur le Square Aragaon 
 (boulevard des Pyrénées). 
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/itineraire-tous-a-velo-10-novembre_385006?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=null&editinosmControl=false"></iframe>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/itineraire-tous-a-velo-10-novembre_385006?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=null&editinosmControl=false"></iframe>
 
 Les promoteurs du vélo comme mode de déplacement quotidien ont arraché la cité 
 à sa torpeur dominicale à l'aide d'une sono, de klaxons et d'ustensiles 

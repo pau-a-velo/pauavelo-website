@@ -26,7 +26,7 @@ La ville à quelques secrets à vous révéler ...
 **Attention !** Le lieu de départ n'est pas habituel. Le rendez-vous est à l'entrée
 ouest de l'université, avenue du Doyen Poplawski.
 
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/entree-ouest-de-luniversite-de-pau-france_320800?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&measureControl=false&editinosmControl=false&locateControl=true"></iframe>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/entree-ouest-de-luniversite-de-pau-france_320800?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&measureControl=false&editinosmControl=false&locateControl=true"></iframe>
 
 
 [Destination Patrimoine]: http://destinationpatrimoine.fr
