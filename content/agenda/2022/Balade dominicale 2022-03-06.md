@@ -1,7 +1,7 @@
 ---
 title: "Balade Dominicale"
-publishdate: 2022-03-05T23:35:50+01:00
-author: "Sébastien Lamy"
+publishdate: 2022-03-03T23:35:50+01:00
+author: "Pierrick Hospital"
 date: 2022-03-06T10:00:00+02:00
 lieu: "Départ au Crayon du Leclerc Pau"
 horaire: 10h
