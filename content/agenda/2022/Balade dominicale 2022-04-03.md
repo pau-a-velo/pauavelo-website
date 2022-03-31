@@ -11,10 +11,12 @@ tags:
 ---
 
 Pour le 1er dimanche du mois d'avril, nous vous proposons une balade à vélo jusqu'au lac de la Teulère à Gan.
+<!--more-->
+
 Après être descendu par la place Gramont et le pont du XIV juillet, le parcours empruntera la voie verte de la Vallée d'Ossau, plein sud.
 L'aller-retour fait une vingtaine de kilomètre avec très peu de dénivelé.
 
 Il fera frisquet mais on pourrait bien éviter la pluie.
 On se réchauffera en pédalant, pensez aux gants et écharpes.
 
-Le rendez-vous est comme d’habitude au square Aragon à 10h, pour un départ à 10h15.
+Le rendez-vous est comme d’habitude au square Aragon (aussi connu sous le nom de square Georges V, sur le boulevard des Pyrénées) à 10h, pour un départ à 10h15.
