@@ -20,8 +20,8 @@ La météo a l’air plutôt sympa : 7° avec des éclaircies
 
 Nous vous donnons rendez-vous au crayon bleu / rouge sur le parking du centre commercial du Leclerc Université avenue Louis Sallenave à 10h00.
 
-Une petite nouveauté: Grâce à l’association «Le Triporteur du Gave», **la balade de ce dimanche est accessible aux personnes qui n’ont pas la chance de pouvoir pédaler** (personnes à mobilité réduite, manque d’équilibre, besoin d’accompagnateur,…).
-Cela peut être l’occasion d’associer une personne de la famille qui n’aurait pas pensé pouvoir participer !
+Une petite nouveauté : Grâce à l’association «Le Triporteur du Gave», **la balade de ce dimanche est accessible aux personnes qui n’ont pas la chance de pouvoir pédaler** (personnes à mobilité réduite, manque d’équilibre, besoin d’accompagnateur,…).
+Cela peut être l’occasion d’associer une personne de la famille qui n’aurait pas pensé pouvoir participer !
 https://www.facebook.com/triporteurdugave/
 
 --> Pensez simplement à nous prévenir par mail ou directement Jean-Michel à jmgarnerone@wanadoo.fr
