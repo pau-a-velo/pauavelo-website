@@ -16,3 +16,5 @@ Le **dimanche 15 mai 2022**, notre association vous propose une bourse aux vélo
 
 
 Cette année, c'est le format « bourse flash » qui sera utilisé : une mise en relation directe entre acheteurs et vendeurs, **de 11h à 12h**. Venez nombreux profiter de cette nouvelle formule plus compacte, pour vous faciliter la pratique du vélo à Pau et dans l'agglo !
+
+Notre association offrira un pot sur place pour ajouter une touche de convivialité à l'évènement.
