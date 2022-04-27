@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Bourse aux vélos"
 publishdate: 2022-04-24T16:00:20+02:00
 author: "Sylvain Thibeau"
