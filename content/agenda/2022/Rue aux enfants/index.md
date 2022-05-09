@@ -19,6 +19,15 @@ Et aussi bien sûr, vos jeux d'extérieur, de société, vos enfants, crayons de
 
 **Entre 10h et 19h, la circulation et le stationnement seront interdits le long de la rue Castetnau, entre la rue Despourrin et la rue Lespy. En lieu et place, vous trouverez des animations pour petits et grands.**
 
+
+Interventions musicales et contées planifiées, ainsi qu'évènement officiel :
+* 11h-11h45: Conte musical "la ville extraordinaire", par la compagnie "mon p'tit guidon"
+* 14h-15h30: Musique par le centre des musiques actuelles (CMA)
+* 15h30: remise du label "rues aux enfants" pour la ville de Pau
+* 16h-17h: Musique par l'Orchestre de jeune "el camino"
+* 16h30-17h30: Rythmique brésilienne par la Batucada l'étoile métisse
+* 18h00-18h45: Conte musical "la ville extraordinaire" par la compagnie "mon p'tit guidon"
+
 La « _rue aux enfants, rue pour tous_ » est un évènement ponctuel, régulier, ou définitif, qui invite à repenser notre espace public. La place qui y est actuellement dévolue à la circulation et au stationnement motorisé rend cet espace inhospitalier pour les enfants et pour la vie de proximité. Lors de cet évènement, l'espace est donc rendu à ceux à qui il a été confisqué, lui donnant un visage totalement différent.
 
 La rue Castetnau, centrale et riche de commerces, proche de pôles de vie importants, est une rue que notre association propose[^1] d'inclure dans une extension de la zone piétonne paloise (voir carte ci-dessous). C'est un lieu idéal pour ce type d'évènement.

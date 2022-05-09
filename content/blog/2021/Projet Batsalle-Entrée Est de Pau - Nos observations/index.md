@@ -6,7 +6,7 @@ tags:
   - dossier
   - concertation
   - analyse
-  - propositions 
+  - proposition
   - Batsalle
   - Général Leclerc
   - Henry Russel

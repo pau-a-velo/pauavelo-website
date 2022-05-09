@@ -5,7 +5,7 @@ author: "Julien Garnier"
 tags:
   - dossier
   - analyse
-  - propositions
+  - proposition
   - jurancon
   - Corps Franc Pommies
   - veloroute v81

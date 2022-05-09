@@ -3,7 +3,7 @@ title: "Municipales 2020 : Nos manifestes !"
 date: 2020-02-16T22:26:03+01:00
 author: "Sébastien Lamy"
 tags:
-  - propositions
+  - proposition
   - Jurançon
   - Gélos
   - Billère

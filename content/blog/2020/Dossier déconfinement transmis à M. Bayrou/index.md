@@ -4,7 +4,7 @@ date: 2020-05-14T23:32:42+02:00
 author: "Hervé Laurent"
 imageGroupClass: "lonely"
 tags:
-  - analyses
+  - analyse
   - proposition
   - courrier
 ---

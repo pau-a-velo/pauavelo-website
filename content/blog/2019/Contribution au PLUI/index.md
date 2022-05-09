@@ -5,7 +5,7 @@ author: "Sébastien Lamy"
 tags:
  - dossier
  - analyse
- - propositions
+ - proposition
  - PLUi
 ---
 
