@@ -1,5 +1,5 @@
 ---
-title: "Balade Dominicale"
+title: "Balade dominicale"
 publishdate: {{ .Date }}
 author: "Sébastien Lamy"
 date: {{ strings.TrimPrefix "Balade dominicale " .File.BaseFileName }}T10:00:00+02:00
@@ -11,5 +11,3 @@ tags:
 ---
 
 Vous pouvez déjà réserver votre dimanche matin pour un moment agréable en vélo.
-Raymonde sera présente pour écouter vos propositions d'itinéraire ou vous 
-soumettre les siennes.
