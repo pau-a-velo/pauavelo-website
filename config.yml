@@ -5,8 +5,8 @@ baseurl: "/"
 title: "Pau à Vélo"
 
 # BUG: ça ne marche pas de passer des arguments à l'éditeur
-# newContentEditor: "kate -s pauavelo.fr"
-newContentEditor: "kate"
+newContentEditor: "kate -s pauavelo.fr"
+# newContentEditor: "kate"
 
 security:
   exec:
