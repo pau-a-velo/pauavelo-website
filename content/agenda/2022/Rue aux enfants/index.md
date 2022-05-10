@@ -39,8 +39,10 @@ Et aussi bien sûr, vos jeux d'extérieur, de société, vos enfants, crayons de
 * 15h-19h : Atelier poterie
 
 **Interventions ponctuelles**
+* 11h-12h : Massage assis AMMA (séances de 15mn)
 * 11h-11h45 : Conte musical *la ville extraordinaire*, par la compagnie « Mon P'tit Guidon »
 * 14h-15h30 : Musique par le centre des musiques actuelles (CMA)
+* 14h-16h : Massage assis AMMA (séances de 15mn)
 * 15h30 : Remise du label *Rues aux enfants, Rue pour tous*, par l'association « Rue de l'Avenir ».
 * 16h-17h : Musique par l'Orchestre de jeune « El Camino »
 * 16h30-17h30 : Rythmique brésilienne par la Batucada « l'Étoile Métisse »
