@@ -23,20 +23,20 @@ Et aussi bien sûr, vos jeux d'extérieur, de société, vos enfants, crayons de
 
 **Toute la journée**
 * Jeux de balles/ de raquettes/ molki
-* Atelier jardinage/compost
+* Atelier jardinage/compost, avec une maître composteur de la ville de Pau
 * Atelier dessin/craie sur feuille, sur bitume et sur panneaux
-* Atelier réparation vélo (10h-17h)
-* Jeux de constructions (jusqu'à 18h) par l'association "Parents en mouvements".
+* Atelier réparation vélo (10h-17h), avec l'Atelier Vélo Participatif et Solidaire
+* Jeux de constructions (jusqu'à 18h) par l'association « Parents en mouvements ».
 * Boccia avec l'association HandiSport
-* Coin draisienne et mini vélos pour les petits.
-* Porteur de parole
+* Coin draisienne et mini vélos, prêtés par les Francas, pour les petits.
+* Jeux de société / Porteur de parole
 * Expo des slogans préparés par le périscolaire de l'école Henri IV
-* Expo "rue de l'avenir"
-* Exposition de peintures du "Seuil de l'art".
+* Expo sur l'aménagement d'une ville, par l'association « Rue de l'Avenir »
+* Exposition de peintures de l'association « Seuil de l'art »
 
 **L'après-midi**
-* 14h-19h : Maquillage pour enfants
-* 15h-19h : Atelier poterie
+* 14h-19h : Maquillage pour enfants avec Katia Maquillage et l'Atelier d'Elsa
+* 15h-19h : Atelier poterie, avec l'association « ALCE »
 
 **Interventions ponctuelles**
 * 11h-12h : Massage assis AMMA (séances de 15mn)
