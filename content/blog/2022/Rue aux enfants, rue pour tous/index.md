@@ -43,6 +43,9 @@ La ville, bien que partageant notre enthousiasme pour cet évènement festif et 
 
 {{< gallery "rue" >}}
 
+L'occasion était excellente pour faire signer notre [**pétition contre le parking bourbaki**](https://www.change.org/p/non-au-parking-bourbaki-oui-%C3%A0-une-ville-durable)
+![](petition_web_sign_04A5036_7_8.jpg)
+
 #### Petits vélos, ping pong, molki
 
 {{< gallery "jeux" >}}
