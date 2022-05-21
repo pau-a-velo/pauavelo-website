@@ -48,9 +48,10 @@ Et aussi bien sûr, vos jeux d'extérieur, de société, vos enfants, crayons de
 * 16h30-17h30 : Rythmique brésilienne par la Batucada « l'Étoile Métisse »
 * 18h-18h45 : Conte musical *la ville extraordinaire*, par la compagnie « Mon P'tit Guidon »
 
-Vous pouvez télécharger ci-dessous l'affiche de l'évènement pour la diffuser
+Vous pouvez télécharger ci-dessous l'affiche de l'évènement pour la diffuser.
+
 <div class="pure-g trombi">
-<a href="rue_castetnau_aux enfants_2022.pdf"><img src="affiche_miniature.jpg" alt="Télécharger l'affiche"></a>
+<a href="rue_castetnau_aux_enfants_2022.pdf"><img src="affiche_miniature.jpg" alt="Télécharger l'affiche"></a>
 </div>
 
 La « *Rue aux enfants, Rue pour tous* » est un évènement ponctuel, régulier, ou définitif, qui invite à repenser notre espace public. La place qui y est actuellement dévolue à la circulation et au stationnement motorisé rend cet espace inhospitalier pour les enfants et pour la vie de proximité. Lors de cet évènement, l'espace est donc rendu à ceux à qui il a été confisqué, lui donnant un visage totalement différent.
