@@ -1,6 +1,6 @@
 ---
 title: "Rue aux enfants, rue pour tous"
-date: 2022-05-20T16:51:21+02:00
+date: 2022-05-14T23:51:21+02:00
 author: "Sébastien Lamy"
 tags:
   - Castetnau
@@ -28,7 +28,7 @@ Cette rue hyper-centrale fait partie de **l'extension de la zone piétonne reven
 
 Pour ceux qui devront absolument s'y rendre en voiture, il sera aisé de stationner dans le **parking République à deux pas**, et le parking **Bosquet également tout proche**. Pour les livraisons des commerces, une rue piétonne est beaucoup plus praticable, même si les horaires y sont contraints. En dehors de ces horaires, **la livraison en vélo cargo** restera possible. Pour ceux qui ne font que passer par là sans vouloir s'y arrêter, il deviendra indispensable de contourner cette zone et d'emprunter des axes capables de supporter un trafic important.
 
-Ce samedi 14 mai, en collaboration avec la ville et de nombreux partenaires, l'association Pau à Vélo a remplacé les files de voitures de la rue Castetnau par **des animations pour les petits et les grands**, rendant ainsi cette portion d'espace public à tous ceux pour qui il est habituellement confisqué, à commencer par les enfants.  L'évènement a volontairement été placé **un jour habituel de forte affluence motorisée**, et il n'y a pas eu d'apocalypse de la circulation. Le public a pu constater le **changement radical d'ambiance**, dans une rue qui devenait enfin un lieu à vivre pour tous.
+Ce samedi 14 mai, en collaboration avec la ville et de nombreux partenaires, l'association Pau à Vélo a remplacé les files de voitures de la rue Castetnau par **des animations pour les petits et les grands**, rendant ainsi cette portion d'espace public à tous ceux à qui il est habituellement confisqué, à commencer par les enfants.  L'évènement a volontairement été placé **un jour habituel de forte affluence motorisée**, et il n'y a pas eu d'apocalypse de la circulation. Le public a pu constater le **changement radical d'ambiance**, dans une rue qui devenait enfin un lieu à vivre pour tous.
 
 ![photo avant](avant.jpg)
 *La rue Castetnau comme d'habitude*
@@ -80,7 +80,7 @@ La ville, bien que partageant notre enthousiasme pour cet évènement festif et 
 #### Remise du label "Rues aux enfants, rue pour tous"
 
 ![](label-web_sign_04A4610_1_2.jpg)
-*Remis par Caroline Bireau, de l'antenne régionale "Rue de l'avenir", et en présence de l'élu référent du centre ville, M. Gerald Damanin*
+*Remis par Caroline Bireau, de l'antenne régionale "Rue de l'avenir", et en présence de l'élu référent du centre ville, M. Gilbert Danan*
 
 ### Banderole géante
 
@@ -90,5 +90,7 @@ La ville, bien que partageant notre enthousiasme pour cet évènement festif et 
 <div class="pure-g trombi">
 <a href="/agenda/2022/rue-aux-enfants/rue_castetnau_aux_enfants_2022.pdf"><img src="/agenda/2022/rue-aux-enfants/affiche_miniature.jpg" alt="Télécharger l'affiche"></a>
 </div>
+
+Cet évènement a fait l'objet d'[un article dans la République des Pyrénées](https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/pau/pau-ils-ont-teste-la-rue-castetnau-sans-voiture-10938050.php)
 
 <div style="font-size:smaller; line-height: 1em; font-style:italic;">Photos de Gaëtan Portenard, courte échelle. Sauf : photos du jeu de molki, de la table de ping pong, du spectacle musical de la compagnie "mon ptit guidon"</div>
