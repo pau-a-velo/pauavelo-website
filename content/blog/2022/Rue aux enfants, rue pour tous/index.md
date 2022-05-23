@@ -75,7 +75,7 @@ La ville, bien que partageant notre enthousiasme pour cet évènement festif et 
 {{< gallery "craies" >}}
 
 #### Notre [**pétition contre le parking bourbaki**](https://www.change.org/p/non-au-parking-bourbaki-oui-%C3%A0-une-ville-durable)
-![](petition_web_sign_04A5036_7_8.jpg)
+<p><a href="https://www.change.org/p/non-au-parking-bourbaki-oui-%C3%A0-une-ville-durable"><img src="petition_web_sign_04A5036_7_8.jpg" alt=""></a></p>
 
 #### Bénévoles
 
