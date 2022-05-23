@@ -13,6 +13,7 @@ tags:
   - école-collège-lycée
   - proposition
   - école Henri IV
+  - animations
 ---
 
 Dans la vie de tous les jours, la rue Castetnau de Pau, c'est **quatre files de voitures** (deux pour le stationnement et deux pour la circulation), et des **tout petits trottoirs** qui bordent de nombreux commerces, à deux pas des halles et de la médiathèque. On y voit régulièrement circuler des poids lourds. 
@@ -43,9 +44,6 @@ La ville, bien que partageant notre enthousiasme pour cet évènement festif et 
 
 {{< gallery "rue" >}}
 
-L'occasion était excellente pour faire signer notre [**pétition contre le parking bourbaki**](https://www.change.org/p/non-au-parking-bourbaki-oui-%C3%A0-une-ville-durable)
-![](petition_web_sign_04A5036_7_8.jpg)
-
 #### Petits vélos, ping pong, molki
 
 {{< gallery "jeux" >}}
@@ -75,6 +73,9 @@ L'occasion était excellente pour faire signer notre [**pétition contre le park
 #### Slogans et dessins sur la rue
 
 {{< gallery "craies" >}}
+
+#### Notre [**pétition contre le parking bourbaki**](https://www.change.org/p/non-au-parking-bourbaki-oui-%C3%A0-une-ville-durable)
+![](petition_web_sign_04A5036_7_8.jpg)
 
 #### Bénévoles
 

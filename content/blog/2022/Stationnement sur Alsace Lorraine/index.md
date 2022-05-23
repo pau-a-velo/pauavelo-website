@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Stationnement sur Alsace Lorraine"
 date: 2022-01-22T11:51:48+02:00
 author: "Camille Cuisinier"
@@ -10,7 +9,13 @@ tags:
   - amenagements
 ---
 
-Le boulevard Alsace Lorraine est un axe important de la ville de Pau. Il est bordés de tilleuls, mais surtout de **stationnement en épi des deux côtés**. Ce stationnement menace directement la circulation à vélo sur les bandes cyclables. Il rend aussi les trottoirs indignes car inaccesibles aux personnes à mobilité réduite. Nous avions rédigé [un courrier d'alerte sur le sujet le 14 juin 2021][alerte]. Aussi, les bandes cyclables de ce boulevard ne sont pas un aménagement convenable, au vu du trafic motorisé important et des incivilités de stationnement qu'on y observe régulièrement.
+Le boulevard Alsace Lorraine est un axe important de la ville de Pau. Il est bordés de tilleuls, mais surtout de **stationnement en épi des deux côtés**. Ce stationnement menace directement la circulation à vélo sur les bandes cyclables. Il rend aussi les trottoirs indignes car inaccesibles aux personnes à mobilité réduite. Nous avions rédigé [un courrier d'alerte sur le sujet le 14 juin 2021][alerte]. 
+
+![](trottoir.jpg)
+
+Les bandes cyclables de ce boulevard ne sont pas un aménagement convenable, au vu du trafic motorisé important et des incivilités de stationnement qu'on y observe régulièrement.
+
+![](bande-squatee.jpg)
 
 À la fin de l'année 2021, ce boulevard a été [le siège de deux accidents mortels en deux jours][deux], dans une série noire de [quatre accidents qui se sont déroulés sur Pau dans les 15 derniers jours de décembre 2021][quatre].
 

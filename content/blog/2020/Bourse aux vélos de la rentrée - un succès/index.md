@@ -3,7 +3,7 @@ title: "Bourse aux vélos de la rentrée : un succès"
 date: 2020-09-20T21:29:10+02:00
 author: "Sébastien Lamy"
 tags:
-  - animation
+  - animations
   - médias
 ---
 
