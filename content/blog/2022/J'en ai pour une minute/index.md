@@ -34,7 +34,8 @@ Depuis 2015, le stationnement sur voie cyclable ou sur trottoir est considéré 
 
 
 Et souvent, avec un peu de bonne volonté et de considérations pour les usagers les plus vulnérables, les solutions existent : 
-* **Marcher un peu**, c'est bon pour la santé.
+* **Marcher un peu**, c'est bon pour la santé. En centre ville, dans l'espace le plus contraint, beaucoup de parking sont libres et accessibles à moins de 10mn à pied.  
+![](parking9mn.jpg)
 * Utiliser **un diable ou un transpalette pour les livraisons** permet de se garer correctement un peu plus loin.
 * La **verbalisation systématique** (même pour deux minutes) semble un mal nécessaire pour faire changer les mentalités dans notre ville. Mais elle ne semble pas à l’ordre du jour. Devant le conservatoire par exemple, alors que le parking Beaumont est à deux pas, les A.S.V.P ont comme consigne de faire preuve d’indulgence face au stationnement abusif aux horaires d’ouverture. Voie cyclable, passage piéton et trottoirs sont donc ainsi réquisitionnés aux dépens des petits ou des grands qui ne se déplacent pas en voiture. Notre association appelle à cesser la complaisance systématiquement observée pour ce type d’infraction.
 * **Les aménagements** peuvent changer pour améliorer les usages.
