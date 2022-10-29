@@ -1,35 +1,16 @@
-pau@<span aria-hidden class="fas fa-bicycle" id="fubiBike"></span><span class="sr-only">vélo</span><br/>
+  <div id="encoded_mail_text">pau@velo</div>
 
-<!-- le bouton n'est là que pour afficher le code à ceux qui n'ont pas javascript -->
-<div id="mail_decode" class="pure-button">
-  <span id="fubiBikeText">décoder</span><br/>
-  (&nbsp;<span aria-hidden class="fas fa-bicycle"></span><span class="sr-only">vélo</span>
-  =
-  <span style="font-weight:bold;">fub.fr</span>&nbsp;)
-</div>
+  <a id="encoded_mail_link" href="pau@velo">
+      <span aria-hidden class="fas fa-envelope" title="Écrire"></span>
+      <span class="sr-only">Écrire</span>
+  </a>
+  <div id="mail_decode" style="font-size:small; max-width:10rem;">
+    <!-- pour ceux qui n'ont pas javascript -->
+    Pour avoir la bonne adresse mail, remplacer "@velo" par "@fub.fr".
+  </div>
 
-
-<script type="text/javascript">
-var actionButton = document.getElementById("mail_decode");
-function bikeToFUB(){
-  var fubiBike = document.getElementById("fubiBike");
-  var fubiBikeText = document.getElementById("fubiBikeText");
-  if ( fubiBike.classList.contains("fas") ){
-    fubiBike.classList.remove("fas", "fa-bicycle");
-    fubiBike.innerHTML = "fub.fr";
-    fubiBike.nextSibling.style.display = "none";
-    // actionButton.style.visibility="hidden";
-    // fubiBikeText.innerHTML = fubiBikeText.innerHTML.replace("décoder","encoder");
-  }
-  else{
-    fubiBike.classList.add("fas", "fa-bicycle");
-    fubiBike.innerHTML="";
-    fubiBike.nextSibling.style.display = "inline";
-    // fubiBikeText.innerHTML = fubiBikeText.innerHTML.replace("encoder","décoder");
-  }
-  // on fait disparaitre le bouton
-  actionButton.style.display = "none";
-}
-//actionButton.addEventListener('click',bikeToFUB);
-bikeToFUB();
-</script>
+  <script type="text/javascript">
+    document.getElementById("mail_decode").style.display="none";
+    document.getElementById("encoded_mail_text").innerHTML="pau@velo".replace("velo", "fub.fr");
+    document.getElementById("encoded_mail_link").setAttribute("href","mailto:pau@velo".replace("velo","fub.fr"));
+  </script>

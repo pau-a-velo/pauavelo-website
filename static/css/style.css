@@ -698,11 +698,11 @@ footer h3{
   text-align: center;
   margin: 0;
 }
-footer>.pure-g{
+footer>.pure-g, .contact.pure-g{
   justify-content:center;
   text-align: center;
 }
-footer>.pure-g>.pure-u{
+footer>.pure-g>.pure-u, .contact.pure-g>.pure-u{
   margin:1em 1.5em;
 }
 footer a{
@@ -716,7 +716,7 @@ footer #mail_decode{
   margin:.5em 0;
   font-size: 0.8em;
 }
-footer .tel a{
+.tel a, .email a{
   font-size: 1.7em;
   display: block;
   margin-top: .15em;
