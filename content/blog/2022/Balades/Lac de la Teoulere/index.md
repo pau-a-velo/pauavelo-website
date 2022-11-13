@@ -1,5 +1,5 @@
 ---
-title: "Balade au lac de la Teoulere"
+title: "Lac de la Teoulere"
 date: 2022-04-03T23:44:10+02:00
 author: "Pierrick Hospital"
 tags:

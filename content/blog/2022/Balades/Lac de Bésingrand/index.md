@@ -1,8 +1,9 @@
 ---
-title: "Balade au lac de Bésingrand"
+title: "Lac de Bésingrand"
 date: 2022-05-01T00:15:09+02:00
 author: "Sébastien Lamy"
 tags:
+  - balade
 ---
 
 Ce dimanche 1er mai marquait le début de la période "mai à vélo". L'occasion de partir un peu plus loin que d'habitude. Après 25km le long du gave sous un ciel couvert, nous sommes arrivés au lac de Bésingrand. Nous avons fait une pause pique-nique peu après, et pris la route du retour. L'itinéraire, réservé au vélo sur presque toute sa longueur, est assez agréable. 

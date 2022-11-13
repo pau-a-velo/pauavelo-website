@@ -1,5 +1,5 @@
 ---
-title: "Balade au lac de Laroin"
+title: "Lac de Laroin"
 date: 2022-02-06T22:28:45+02:00
 author: "Pierrick Hospital"
 tags:

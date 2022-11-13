@@ -1,5 +1,5 @@
 ---
-title: "Balade à la ferme Pau de Vache"
+title: "Ferme Pau de Vache"
 date: 2022-03-06T23:08:00+02:00
 author: "Sébastien Lamy"
 tags:
