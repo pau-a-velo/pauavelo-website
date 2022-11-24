@@ -5,6 +5,8 @@ author: "Pierrick Hospital"
 tags:
   - balade
   - Laroin
+aliases:
+    - /blog/2022/balade-au-lac-de-laroin/
 ---
 
 Ce dimanche 6 février, notre balade dominicale nous a emmené à Laroin. Nous étions une petite vingtaine de cyclistes, bien contents de pédaler au soleil hivernal. Nous avons fait le tour du lac de Laroin et avons vu la nouvelle chaufferie à bois du réseau de chaleur urbain (merci Lons à vélo )

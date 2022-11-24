@@ -5,6 +5,8 @@ author: "Sébastien Lamy"
 tags:
   - balade
   - avenue de Buros
+aliases:
+    - /blog/2022/balade-a-la-ferme-pau-de-vache/
 ---
 
 Super balade ce dimanche 06 mars ! Au départ du crayon du Leclerc, sous un ciel couvert, nous somme partis à la ferme Pau de vaches, pour une visite guidée menée par l'exploitant lui même.

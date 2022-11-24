@@ -16,11 +16,18 @@ tags:
 Le temps d'un samedi matin, notre association a recouvert de mille pensées la portion de la rue Carnot qui fait face au complexe de la République. Des danseurs de tango et des conteurs se sont emparés de l'espace public libéré de l'emprise de la circulation automobile. Les fleurs ont été offertes au public en fin de manifestation.
 
 {{< gallery "photos" >}}
+<div style="font-size: smaller; line-height:normal; font-style:italic">
+Photos (sauf banderole "1000 pensées pour une rue pietonne") : <br>
+Gaëtan Portenart, Courte Echelle
+</div>
 
 Cette opération visait à proposer la piétonnisation de cette portion de rue, qui ne nécessiterait aucun travaux supplémentaire. Tous les passants qui étaient séduit ou enthousiasmé par cette proposition de notre association pouvait se faire prendre en photo avec les pensées. Ce sont environ 300 personnes qui se sont prêtées au jeu dans la matinée (suite de l'article après les portraits).
 
 {{< gallery "portraits" >}}
 
+<div style="font-size: smaller; line-height:normal; font-style:italic">
+Photos des soutiens : Pascal Dauboin
+</div>
 
 L'opération nous a valu des articles dans [La République des Pyrénées][larep], dans [Sud-Ouest][sudouest], et un passage sur France Bleu.
 
