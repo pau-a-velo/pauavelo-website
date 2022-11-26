@@ -8,7 +8,7 @@ tags:
   - proposition
   - jurancon
   - Corps Franc Pommies
-  - veloroute v81
+  - véloroute v81
 ---
 
 Les services techniques de l'agglomération nous avaient transmis les plans pour traiter la rupture de continuité de la veloroute V81 située sur la commune de Jurançon et pour aménager l'avenue Corps Franc Pommies. Nous y avons donc apporté nos observations et nos recommandations que vous trouverez ici.

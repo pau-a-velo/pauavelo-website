@@ -4,7 +4,7 @@ date: 2019-05-20T15:36:47+02:00
 author: "Sébastien Lamy"
 tags:
   - voie verte
-  - V81
+  - véloroute V81
   - Gelos
 ---
 
