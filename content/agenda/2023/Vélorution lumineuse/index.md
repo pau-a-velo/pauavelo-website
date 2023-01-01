@@ -2,9 +2,9 @@
 title: "Vélorution lumineuse"
 publishdate: 2022-12-08T17:03:55+01:00
 author: "Florence Nunès"
-date: 2022-12-17T17:00:00+01:00
+date: 2023-01-07T17:30:00+01:00
 lieu: "Départ rue Serviez"
-horaire: 17h
+horaire: 17h30
 tags:
   - vélorution
 ---
@@ -13,7 +13,7 @@ tags:
 
 <!--more-->
 
-Samedi 17 décembre, venez à la vélorution[^1] !… Départ 17h au milieu de la rue Serviez, arrivée vers 18h30 aux Halles, avec apéro offert et petit spectacle surprise.
+Samedi 17 décembre, venez à la vélorution[^1] !… Départ 17h30 au milieu de la rue Serviez, arrivée vers 19h00 aux Halles, avec galette des rois et apéro offert à l'arrivée.
 
 Dress code : guirlandes et lumières.
 
