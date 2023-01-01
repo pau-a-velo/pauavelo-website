@@ -13,7 +13,7 @@ tags:
 
 <!--more-->
 
-Samedi 17 décembre, venez à la vélorution[^1] !… Départ 17h30 au milieu de la rue Serviez, arrivée vers 19h00 aux Halles, avec galette des rois et apéro offert à l'arrivée.
+Samedi 7 janvier, venez à la vélorution[^1] !… Départ 17h30 au milieu de la rue Serviez, arrivée vers 19h00 aux Halles, avec galette des rois et apéro offert à l'arrivée.
 
 Dress code : guirlandes et lumières.
 
