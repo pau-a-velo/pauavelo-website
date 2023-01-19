@@ -8,7 +8,7 @@ horaire: 10h30
 tags:
 ---
 
-Cette année, le festival Cin'espaces, organisé par le CAUE 64, a pour thème 
+Cette année, le festival Cin'espaces, organisé par le [CAUE 64][], a pour thème 
 « **Place aux jeunes et aux enfants dans l'espace public** ».
 
 <!--more-->
@@ -24,3 +24,6 @@ ci-dessous.
 
 Pau à Vélo est représentante locale de l'association « Rue de l'Avenir », qui
 soutien et encadre les projets de rues aux enfants au niveau national.
+
+
+[CAUE 64]:https://www.caue64.fr/
