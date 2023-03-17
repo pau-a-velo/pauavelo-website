@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Marquage signalétique rue Carnot"
 date: 2023-02-12T20:59:54+01:00
 author: "Bertrand Ottmer"
