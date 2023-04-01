@@ -2,6 +2,10 @@
   {{ .page.Scratch.Set "image" ((.page.Site.GetPage "media").Resources.GetMatch .page.Params.header) -}}
 {{ else if .page.Resources }}
   {{ .page.Scratch.Set "image" ((.page.Resources.ByType "image").GetMatch "header.*") -}}
+{{ else if .page.IsNode -}}
+  {{ range first 1 .page.RegularPages}}
+    {{ .Page.Parent.Scratch.Set "image" (.Resources.GetMatch "header.*") }}
+  {{ end }}
 {{ end}}
 {{ .page.Scratch.Set "hasImage" (cond (not (.page.Scratch.Get "image")) false true) -}}
 <div class="card {{ cond (.page.Scratch.Get "hasImage") " with-image" "" }}">

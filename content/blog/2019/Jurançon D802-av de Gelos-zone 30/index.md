@@ -34,4 +34,4 @@ Vous pouvez la [consulter notre courrier ici]
 
 [rencontré précédemment]: /blog/2019/propositions-pour-jurancon/
 [consulter notre courrier ici]: 20190626-courrier-pau-velo-jurancon.pdf
-[Loi LAURE]: https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006833430&dateTexte=20090518
+[loi LAURE]: https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006833430&dateTexte=20090518

@@ -24,7 +24,7 @@ Notre association revendique plusieurs changements possibles pour rendre cet axe
 * Tout d'abord, nous proposons que **cet axe cesse d'être un axe majeur de contournement du centre-ville**, pour devenir un axe de désserte résidentielle, limité à 30km/h avec une circulation restreinte aux usagers du quartier. Dans l'action 10 de [notre manifeste][manifeste] et dans ses annexes, nous affirmons en effet que **le premier axe de contournement du centre-ville par le nord devrait être le boulevard Tourasse**. Ceci suppose par exemple qu'on puisse créer sur le boulevard Alsace-Lorraine des sens uniques tête bêche, ou une impasse débouchante. Dans les annexes de notre manifeste, à ce sujet, on trouve notamment notre _proposition d’implémentation du modèle Van den Berg au centre de Pau_.
 * Nous revendiquons également la **suppression pure et simple du stationnement**, pour y créer une promenade confortable, et de vraies pistes cyclables. Cette axe redeviendrait ainsi la "Belle Allée" qu'il a été par le passé. Une solution intermédiaire serait un stationnement alterné sur une seule voie.
 
-![](alsace-lorraine.png)
+![](alsace-lorraine.jpg)
 
 * Dans une optique immédiate, nous exigeons que **le stationnement soit repensé** pour rendre possible les déplacements des personnes à mobilités réduite, et pour sécuriser les déplacements en vélo.
 
