@@ -6,7 +6,7 @@
     {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "%s.*") }}
     {{- with $portrait }}
       {{/* - $src := ($portrait.Fill "240x320").Permalink */}}
-      {{- $src := ($portrait.Resize "480x").Permalink }}
+      {{- $src := cond (eq hugo.Environment "production") (print $portrait.Permalink "?nf_resize=fit&w=480") ($portrait.Resize "480x").Permalink }}
       <img src="{{ $src }}" />
     {{- end }}
     <h3>{{ .nom }}</h3>
