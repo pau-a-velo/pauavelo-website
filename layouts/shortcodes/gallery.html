@@ -1,7 +1,10 @@
 {{ $galleryimages := (.Page.Resources.ByType "image").Match (printf "%s/*" (.Get 0)) }}
 <div class="gallery" itemscope itemtype="https://schema.org/ImageGallery">
 {{ range $galleryimages }}
-    {{- $src := cond (eq hugo.Environment "production") (print .Permalink "?nf_resize=fit&h=150") (.Resize "x150").Permalink }}
+    {{- $src := (print .Permalink "?nf_resize=fit&h=150")  }}
+    {{- if (ne hugo.Environment "production") }}
+      {{- $src = (.Resize "x150").Permalink }}
+    {{- end }}
 		<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 		  <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
 		      <img src="{{ $src }}" itemprop="thumbnail" />

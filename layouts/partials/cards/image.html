@@ -1,5 +1,8 @@
 {{ with  .Scratch.Get "image" }}
-  {{ $src := cond (eq hugo.Environment "production") (print .Permalink "?nf_resize=fit&w=551&h=230") (.Fit "551x230").Permalink }}
+  {{- $src := (print .Permalink "?nf_resize=fit&w=551&h=230") }}
+  {{- if (ne hugo.Environment "production") }}
+    {{- $src = (.Fit "551x230").Permalink }}
+  {{- end }}
   <div class="card-img">
     <a href="{{ $.Permalink }}"><img src="{{ $src }}" /></a>
   </div>

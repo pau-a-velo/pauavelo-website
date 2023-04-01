@@ -2,7 +2,10 @@
 {{ $caption := .Get "caption" }}
 {{ $width := int (or (.Get "width") 800) }}
 {{ with $image }}
-    {{ $src := cond (eq hugo.Environment "production") (printf "%s?nf_resize=fit&w=%d" .Permalink $width) ((cond (gt .Width $width ) (.Resize (printf "%dx" $width )) .).Permalink) }}
+  {{ $src := (printf "%s?nf_resize=fit&w=%d" .Permalink $width) }}
+  {{- if (ne hugo.Environment "production") }}
+    {{- $src = (cond (gt .Width $width ) (.Resize (printf "%dx" $width )) .).Permalink }}
+  {{- end }}
 	<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
     {{ with $caption }}
     <figcaption itemprop="caption description">{{ . }}</figcaption>
