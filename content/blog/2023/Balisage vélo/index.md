@@ -19,7 +19,7 @@ Dès cette première réunion sur le sujet, nous avons soulevé plusieurs point 
 Lors de la réunion suivante, le 16 mars 2021, nous avons soumis à la mairie un document destiné à discussion qui synthétise nos remarques sur les itinéraires proposés. L'autre sujet du jour (le projet de rénovation du carrefour Batsalle) a absorbé trop de temps de réunion pour que nous puissions aborder le sujet du jalonnement des itinéraires. Par la suite, ce sujet n'a pas été remis sur la table. Nous vous partageons ici notre document.
 
 <div class="pure-g trombi">
-{{< dossier id="commentaires_jalonnement" title="Commentaires sur le plan de jalonnement" >}}
+{{< dossier id="commentaires-jalonnement" title="Commentaires sur le plan de jalonnement" >}}
 </div>
 
 Il semble que la mairie ait pris en compte certaines de nos remarques, puisqu'elle nous a récemment transmis [une deuxième version du plan](carto-mairie-v2.pdf), que nous avons retranscrit en ligne. Vous pouvez l'ouvrir en cliquant sur l'image ci-dessous.
