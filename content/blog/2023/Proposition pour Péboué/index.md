@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Proposition pour Péboué"
 date: 2022-09-02T20:33:49+02:00
 author: "Sébastien Lamy"
