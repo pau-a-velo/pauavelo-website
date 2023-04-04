@@ -24,7 +24,7 @@ Lors de la réunion suivante, le 16 mars 2021, nous avons soumis à la mairie un
 
 Il semble que la mairie ait pris en compte certaines de nos remarques, puisqu'elle nous a récemment transmis [une deuxième version du plan](carto-mairie-v2.pdf), que nous avons retranscrit en ligne. Vous pouvez l'ouvrir en cliquant sur l'image ci-dessous.
 
-<p><a href=""><img src="cartographiev2-interactive.jpg" title="Ouvrir la cartographie interactive"></a></p>
+<p><a href="http://umap.openstreetmap.fr/fr/map/proposition-ditineraires-balises-v2_892975"><img src="cartographiev2-interactive.jpg" title="Ouvrir la cartographie interactive"></a></p>
 
 
 
