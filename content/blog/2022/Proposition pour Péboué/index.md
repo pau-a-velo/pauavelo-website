@@ -6,9 +6,12 @@ tags:
   - Péboué
   - proposition
   - Total
+aliases:
+  - /blog/2023/proposition-pour-peboue/
 ---
 
-Le 9 juillet 2022, [un article du journal la République](https://www.larepubliquedespyrenees.fr/societe/travaux/pau-le-projet-de-la-mairie-pour-la-rue-peboue-fraichement-accueilli-par-les-riverains-11586712.php) relatait un projet de rénovation porté pour l'avenue Peboué. La mairie proposait une "voie verte" sur trottoir que nous trouvions très décevante. Cette avenue est en effet  un axe important qui se trouve au bout des Allées de Morlaàs, au Nord-Est de Pau. Il est sur le trajet qui relie le centre ville au bassin d'emploi proche du CST Total.
+
+Le 9 juillet 2022, [un article du journal la République](https://www.larepubliquedespyrenees.fr/societe/travaux/pau-le-projet-de-la-mairie-pour-la-rue-peboue-fraichement-accueilli-par-les-riverains-11586712.php) relatait un projet de rénovation porté pour l'avenue Peboué. La mairie proposait une "voie verte" sur trottoir que nous trouvions très décevante. Cette avenue est en effet  un axe important qui se trouve au bout des Allées de Morlaàs, au Nord-Est de Pau. Il est sur le trajet qui relie le centre ville au bassin d'emploi proche du CST de Total.
 
 Nous avons rédigé un dossier de proposition pour cette avenue, que nous avons présenté lors d'une réunion en mairie le 2 septembre 2022. Vous pouvez le consultez ici.
 

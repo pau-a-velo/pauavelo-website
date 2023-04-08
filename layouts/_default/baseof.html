@@ -69,7 +69,6 @@
 	{{ with .OutputFormats.Get "RSS" -}}<link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ or $.Page.Title $.Site.Title }}">{{- end }}
 </head>
 <body>
-  {{ .IsNode }} {{ .BundleType }}
 	{{ block "main" . }}{{ end }}
 	<script  src="/js/pau-a-velo.js"></script>
 	{{ block "js" . }}{{ end }}
