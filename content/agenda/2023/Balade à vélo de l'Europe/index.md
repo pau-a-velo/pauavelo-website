@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Balade à vélo de l'Europe"
 publishdate: 2023-04-18T00:21:41+02:00
 author: "Martina Massoli"
