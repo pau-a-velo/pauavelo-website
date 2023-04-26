@@ -15,4 +15,4 @@ L'automobile, c'est grand prix. Le vélo c'est petit prix. Pour pas cher, en ne 
 
 Tournons ensemble sur le circuit du grand prix de Pau comme tourne la roue du destin. Rendez-vous au [tour des géants](https://www.pau.fr/article/le-tour-des-geants-un-musee-exceptionnel). La mobilité de demain est déjà là sous nos yeux, il suffit de la vouloir ensemble. Plus sobre, plus silencieuse, plus humaine, plus active, plus lente, plus soutenable, plus joyeuse, plus belle...
 
-Ca se passe le 6 mai, juste avant [la Forge en Roue Libre](/agenda/2023/la-forge-en-roue-libre/) !
+Ça se passe le 6 mai, juste avant [la Forge en Roue Libre](/agenda/2023/la-forge-en-roue-libre/) !
