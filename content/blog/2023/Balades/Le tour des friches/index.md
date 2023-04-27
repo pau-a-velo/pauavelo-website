@@ -12,6 +12,12 @@ Nous sommes partis entre Lons et Billère, à la découverte d’une nature déb
 
 {{< gallery "balade" >}}
 
+Voici une cartographie du parcours suivi et des friches explorées :
+
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/decouverte-des-friches_905688?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false"></iframe>
+<p><a href="//umap.openstreetmap.fr/fr/map/decouverte-des-friches_905688">Retrouver cette carte sur umap</a></p>
+
+
 Arrivés à la guinguette de Billère, nous avons pu participer aux préparations culinaires, mais aussi étudier des cartes et observer l'évolution de l'urbanisation dans les coins que nous avions visité. Une matinée passionnante, et gourmande !
 
 {{< gallery "apero" >}}
